@@ -964,3 +964,53 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.01.30-22.35.06:222][887]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.30-22.35.06:222][887]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.01.30-22.35.06:222][887]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-22.36.02:180][519]Cmd: DELETE
+[2021.01.30-22.36.02:205][519]Cmd: ACTOR DELETE
+[2021.01.30-22.36.02:731][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-22.36.02:791][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.01.30-22.36.02:805][519]LogEditorActor: Deleted 1 Actors (0.188 secs)
+[2021.01.30-22.36.04:430][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.01.30-22.36.05:437][673]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.01.30-22.36.06:447][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.01.30-22.36.08:108][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2021.01.30-22.36.14:551][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2021.01.30-22.36.18:096][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2021.01.30-22.36.19:720][491]Cmd: DELETE
+[2021.01.30-22.36.19:720][491]Cmd: ACTOR DELETE
+[2021.01.30-22.36.19:727][491]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-22.36.19:743][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.01.30-22.36.19:746][491]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.01.30-22.36.24:345][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.01.30-22.36.24:917][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.01.30-22.36.26:055][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.30-22.36.26:851][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.01.30-22.36.28:709][ 21]Cmd: DELETE
+[2021.01.30-22.36.28:709][ 21]Cmd: ACTOR DELETE
+[2021.01.30-22.36.28:711][ 21]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-22.36.28:716][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.01.30-22.36.28:717][ 21]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.01.30-22.36.30:710][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall15)
+[2021.01.30-22.36.32:164][226]Cmd: DELETE
+[2021.01.30-22.36.32:164][226]Cmd: ACTOR DELETE
+[2021.01.30-22.36.32:168][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-22.36.32:176][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.01.30-22.36.32:177][226]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.01.30-22.36.38:337][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall24)
+[2021.01.30-22.36.39:644][671]Cmd: DELETE
+[2021.01.30-22.36.39:644][671]Cmd: ACTOR DELETE
+[2021.01.30-22.36.39:647][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-22.36.39:656][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.01.30-22.36.39:657][671]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.01.30-22.36.46:311][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.01.30-22.36.47:811][ 70]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-22.36.47:895][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.30-22.36.47:937][ 70]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap820417374B042D710786D682E104EF25.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-22.36.47:943][ 70]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.060
+[2021.01.30-22.36.47:951][ 70]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-22.36.47:951][ 70]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-22.36.49:093][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.30-22.36.49:235][138]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMapE10EBBFB4A539A4AE0AB8FBB0CC22910.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-22.36.51:460][138]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_BuiltData57296131448A0DAEE1C6CEA8D4464844.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.30-22.36.51:495][138]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-22.36.51:495][138]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.30-22.36.51:495][138]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
