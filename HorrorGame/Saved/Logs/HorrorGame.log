@@ -1893,3 +1893,51 @@ Script Stack (0 frames):
 [2021.01.30-19.58.24:978][614]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.30-19.58.24:978][614]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.01.30-19.58.24:978][614]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.59.16:111][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.01.30-19.59.17:658][597]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIwidgets/LevelComplete.LevelComplete
+[2021.01.30-19.59.38:514][730]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.30-19.59.46:431][203]BlueprintLog: New page: Compile LevelComplete
+[2021.01.30-19.59.46:455][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.01.30-19.59.47:335][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIwidgets/LevelComplete" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/LevelComplete.uasset" SILENT=true
+[2021.01.30-19.59.47:344][249]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/LevelComplete780C4642484647AC05D1779832E48BC6.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/LevelComplete.uasset'
+[2021.01.30-19.59.47:357][249]AssetCheck: New page: Asset Save: LevelComplete
+[2021.01.30-19.59.47:357][249]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIwidgets/LevelComplete.LevelComplete
+[2021.01.30-19.59.54:977][697]LogSlate: Window 'LevelComplete' being destroyed
+[2021.01.30-19.59.54:987][697]LogSlate: Window 'LevelComplete' being destroyed
+[2021.01.30-19.59.54:990][697]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.59.54:990][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.59.54:997][697]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.59.54:997][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-20.00.03:871][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.01.30-20.00.05:642][312]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIwidgets/LevelFailed.LevelFailed
+[2021.01.30-20.00.20:979][163]BlueprintLog: New page: Compile LevelFailed
+[2021.01.30-20.00.21:006][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.01.30-20.00.21:632][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIwidgets/LevelFailed" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/LevelFailed.uasset" SILENT=true
+[2021.01.30-20.00.21:642][191]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/LevelFailedE3AA93AE4976ECE106E423AE9E64A92D.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/LevelFailed.uasset'
+[2021.01.30-20.00.21:655][191]AssetCheck: New page: Asset Save: LevelFailed
+[2021.01.30-20.00.21:655][191]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIwidgets/LevelFailed.LevelFailed
+[2021.01.30-20.00.29:716][673]BlueprintLog: New page: Compile LevelFailed
+[2021.01.30-20.00.29:749][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.01.30-20.00.30:368][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIwidgets/LevelFailed" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/LevelFailed.uasset" SILENT=true
+[2021.01.30-20.00.30:497][705]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/LevelFailed4F2C320B43C85D2835A3D294D3638368.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/LevelFailed.uasset'
+[2021.01.30-20.00.30:539][705]AssetCheck: New page: Asset Save: LevelFailed
+[2021.01.30-20.00.30:539][705]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIwidgets/LevelFailed.LevelFailed
+[2021.01.30-20.00.46:589][654]BlueprintLog: New page: Compile LevelFailed
+[2021.01.30-20.00.46:628][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.01.30-20.00.47:226][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIwidgets/LevelFailed" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/LevelFailed.uasset" SILENT=true
+[2021.01.30-20.00.47:236][683]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/LevelFailedEFD3EC5D4D9D01DAA2C146885F1A5C9E.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/LevelFailed.uasset'
+[2021.01.30-20.00.47:249][683]AssetCheck: New page: Asset Save: LevelFailed
+[2021.01.30-20.00.47:249][683]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIwidgets/LevelFailed.LevelFailed
+[2021.01.30-20.01.02:878][604]LogSlate: Window 'LevelFailed' being destroyed
+[2021.01.30-20.01.02:886][604]LogSlate: Window 'LevelFailed' being destroyed
+[2021.01.30-20.01.02:889][604]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-20.01.02:889][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-20.01.02:897][604]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-20.01.02:897][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-20.01.04:386][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.01.30-20.01.06:117][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.01.30-20.01.06:149][791]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap8A61F7A9407C8781768155B78CF02FAB.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-20.01.07:933][791]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_BuiltData14DBB6BA4099B79C9230C9B2B239D34F.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.30-20.01.07:958][791]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-20.01.07:958][791]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.30-20.01.07:958][791]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
