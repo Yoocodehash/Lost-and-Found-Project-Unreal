@@ -2254,3 +2254,10 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.01.30-17.00.42:774][607]Cmd: TRANSACTION UNDO
 [2021.01.30-17.00.42:775][607]LogEditorTransaction: Undo Create Actors
 [2021.01.30-17.00.57:313][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.01.30-17.01.23:601][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.01.30-17.01.29:353][103]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-17.01.29:533][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.01.30-17.01.29:645][103]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap0E0CC94B4AD6E7354D9739BE2F610B2A.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-17.01.29:653][103]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.143
+[2021.01.30-17.01.29:675][103]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-17.01.29:675][103]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
