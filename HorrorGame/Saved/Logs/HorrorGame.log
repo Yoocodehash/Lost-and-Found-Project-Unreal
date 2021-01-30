@@ -829,3 +829,132 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.01.30-18.18.11:718][ 88]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.30-18.18.11:718][ 88]LogContentValidation: Display: Validating Material /Game/Keys/initialShadingGroup.initialShadingGroup
 [2021.01.30-18.18.11:718][ 88]LogContentValidation: Display: Validating StaticMesh /Game/Keys/key.key
+[2021.01.30-18.19.04:735][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.01.30-18.19.05:308][914]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2021.01.30-18.19.05:308][914]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2021.01.30-18.19.05:308][914]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2021.01.30-18.19.05:308][914]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2021.01.30-18.19.05:308][914]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2021.01.30-18.19.05:308][914]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2021.01.30-18.19.05:577][914]LogMaterial: Display: Missing cached shader map for material Standard_MasterMaterial, compiling. 
+[2021.01.30-18.19.15:832][914]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 74
+[2021.01.30-18.19.15:832][914]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 64
+[2021.01.30-18.19.15:833][914]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 54
+[2021.01.30-18.19.15:833][914]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 44
+[2021.01.30-18.19.15:833][914]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2021.01.30-18.19.15:833][914]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2021.01.30-18.19.15:833][914]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.01.30-18.19.15:833][914]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.30-18.19.15:833][914]LogTexture: Display: Building textures: rlwmsup0_8K_Displacement (AutoDXT, 4096X4096)
+[2021.01.30-18.19.15:833][914]LogTexture: Display: Building textures: rlwmsup0_8K_Roughness (AutoDXT, 4096X4096)
+[2021.01.30-18.19.15:833][914]LogTexture: Display: Building textures: rlwmsup0_8K_Albedo (AutoDXT, 4096X4096)
+[2021.01.30-18.19.15:833][914]LogTexture: Display: Building textures: rlwmsup0_8K_Normal (BC5, 4096X4096)
+[2021.01.30-18.19.15:833][914]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.01.30-18.19.15:863][914]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MS_DebrisPaperV1/Maps/Overview.Overview
+[2021.01.30-18.19.15:888][914]Cmd: MAP LOAD FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/MS_DebrisPaperV1/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-18.19.15:888][914]LightingResults: New page: Lighting Build
+[2021.01.30-18.19.15:888][914]LoadErrors: New page: Loading map: Overview.umap
+[2021.01.30-18.19.15:889][914]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.19.15:889][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.19.15:889][914]MapCheck: New page: Map Check
+[2021.01.30-18.19.15:889][914]LightingResults: New page: Lighting Build
+[2021.01.30-18.19.15:896][914]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-18.19.15:935][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.01.30-18.19.15:941][914]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2021.01.30-18.19.16:065][914]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-18.19.16:065][914]LogAIModule: Creating AISystem for world Overview
+[2021.01.30-18.19.16:075][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.01.30-18.19.16:081][914]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-18.19.16:081][914]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2021.01.30-18.19.16:081][914]LogFileHelpers: Loading map 'Overview' took 0.193
+[2021.01.30-18.19.24:172][378]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-18.19.32:647][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.30-18.19.32:802][849]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-18.19.32:802][849]Cmd: MAP LOAD FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-18.19.32:802][849]LightingResults: New page: Lighting Build
+[2021.01.30-18.19.32:802][849]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2021.01.30-18.19.32:837][849]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.19.32:837][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.19.32:838][849]MapCheck: New page: Map Check
+[2021.01.30-18.19.32:838][849]LightingResults: New page: Lighting Build
+[2021.01.30-18.19.32:852][849]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-18.19.32:857][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.01.30-18.19.32:859][849]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.01.30-18.19.32:969][849]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-18.19.32:969][849]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.30-18.19.32:977][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.01.30-18.19.32:983][849]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-18.19.32:983][849]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2021.01.30-18.19.32:983][849]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.180
+[2021.01.30-18.19.36:721][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.01.30-18.19.38:719][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.01.30-18.19.38:805][175]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap11608AD9449E4EB0D90493AFADA6563B.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-18.19.38:826][175]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-18.19.38:826][175]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-18.21.05:930][ 22]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/osama/Downloads/Flashlight/Flashlight.obj)
+[2021.01.30-18.21.05:936][ 22]LogFbx: Loading FBX Scene from C:/Users/osama/Downloads/Flashlight/Flashlight.obj
+[2021.01.30-18.21.05:943][ 22]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.30-18.21.07:282][ 22]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.30-18.21.07:330][ 22]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\PedroH_BR\Desktop\ALL\Blender\Texturas\Lanterna001Textura.png
+[2021.01.30-18.21.07:333][ 22]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.01.30-18.21.07:350][ 22]LogFbx: Display: Triangulating static mesh default
+[2021.01.30-18.21.07:393][ 22]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.01.30-18.21.07:393][ 22]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.30-18.21.07:393][ 22]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.30-18.21.07:393][ 22]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.30-18.21.07:393][ 22]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.30-18.21.07:393][ 22]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.30-18.21.07:393][ 22]LogStaticMesh: Building static mesh Flashlight...
+[2021.01.30-18.21.07:431][ 22]LogStaticMesh: Built static mesh [0.04s] /Game/Flashlight/Flashlight.Flashlight
+[2021.01.30-18.21.11:397][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.01.30-18.21.14:386][221]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-18.21.14:478][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flashlight/Flashlight" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Flashlight/Flashlight.uasset" SILENT=true
+[2021.01.30-18.21.14:500][221]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FlashlightB865CC834D7488C7BA97BCB269A83ED1.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Flashlight/Flashlight.uasset'
+[2021.01.30-18.21.18:273][221]LogSlate: Window 'Message' being destroyed
+[2021.01.30-18.21.18:288][221]Message dialog closed, result: Ok, title: Message, text: A file/folder may not match any of the following : 
+CON, PRN, AUX, CLOCK$, NUL, NONE, 
+COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9, 
+LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9.
+[2021.01.30-18.21.18:317][221]LogFileHelpers: Warning: The following assets are writable on disk but not checked out from source control:
+/Game/Flashlight/None
+[2021.01.30-18.21.24:017][221]LogSlate: Window 'Writable Assets Not Checked Out' being destroyed
+[2021.01.30-18.21.26:614][221]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2021.01.30-18.21.26:623][221]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Flashlight/None
+[2021.01.30-18.21.26:627][221]AssetCheck: New page: Asset Save: Flashlight
+[2021.01.30-18.21.26:627][221]LogContentValidation: Display: Validating StaticMesh /Game/Flashlight/Flashlight.Flashlight
+[2021.01.30-18.21.27:957][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.01.30-18.21.32:747][296]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-18.21.36:939][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.01.30-18.21.38:654][544]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-18.21.39:747][544]LogSlate: Window 'Message' being destroyed
+[2021.01.30-18.21.39:752][544]Message dialog closed, result: Ok, title: Message, text: A file/folder may not match any of the following : 
+CON, PRN, AUX, CLOCK$, NUL, NONE, 
+COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9, 
+LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9.
+[2021.01.30-18.21.39:757][544]LogFileHelpers: Warning: The following assets are writable on disk but not checked out from source control:
+/Game/Flashlight/None
+[2021.01.30-18.21.42:510][544]LogSlate: Window 'Writable Assets Not Checked Out' being destroyed
+[2021.01.30-18.21.45:123][544]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2021.01.30-18.21.45:127][544]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Flashlight/None
+[2021.01.30-18.21.50:548][855]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Flashlight/Flashlight.Flashlight
+[2021.01.30-18.21.52:450][855]LogRenderer: Reallocating scene render targets to support 1192x740 Format 10 NumSamples 1 (Frame:1).
+[2021.01.30-18.21.52:450][855]LogSlate: Took 0.034860 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.30-18.21.58:782][230]LogSlate: Window 'Flashlight' being destroyed
+[2021.01.30-18.21.58:789][230]LogSlate: Window 'Flashlight' being destroyed
+[2021.01.30-18.21.58:793][230]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.21.58:793][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.22.06:855][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.01.30-18.22.08:607][689]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-18.22.10:034][689]LogSlate: Window 'Message' being destroyed
+[2021.01.30-18.22.10:039][689]Message dialog closed, result: Ok, title: Message, text: A file/folder may not match any of the following : 
+CON, PRN, AUX, CLOCK$, NUL, NONE, 
+COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9, 
+LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9.
+[2021.01.30-18.22.10:044][689]LogFileHelpers: Warning: The following assets are writable on disk but not checked out from source control:
+/Game/Flashlight/None
+[2021.01.30-18.22.11:106][689]LogSlate: Window 'Writable Assets Not Checked Out' being destroyed
+[2021.01.30-18.22.12:913][689]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2021.01.30-18.22.12:930][689]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Flashlight/None
