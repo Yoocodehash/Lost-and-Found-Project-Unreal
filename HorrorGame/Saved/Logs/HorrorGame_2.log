@@ -2261,3 +2261,259 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.01.30-17.01.29:653][103]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.143
 [2021.01.30-17.01.29:675][103]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2021.01.30-17.01.29:675][103]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-17.06.28:807][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.30-17.06.29:812][303]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.01.30-17.06.29:813][303]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.01.30-17.06.29:813][303]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.01.30-17.06.30:418][303]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.01.30-17.06.30:418][303]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2021.01.30-17.06.30:420][303]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.01.30-17.06.30:420][303]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2021.01.30-17.06.30:469][303]LogMaterial: Display: Missing cached shader map for material FoamDiffuse, compiling. 
+[2021.01.30-17.06.30:480][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.30-17.06.30:480][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.30-17.06.30:480][303]LogMaterial: Display: Missing cached shader map for material M_Fluid_Display_01, compiling. 
+[2021.01.30-17.06.32:214][303]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2021.01.30-17.06.32:214][303]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2021.01.30-17.06.32:214][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2021.01.30-17.06.32:214][303]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.30-17.06.32:214][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.01.30-17.06.32:214][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.01.30-17.06.32:214][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.01.30-17.06.32:214][303]LogTexture: Display: Building textures: Caustics_Animated_01_HDR (RGBA16F, 4096X2048)
+[2021.01.30-17.06.32:214][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.30-17.06.32:214][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.30-17.06.32:214][303]LogMaterial: Display: Missing cached shader map for material M_Underwater_CrossSection_Test, compiling. 
+[2021.01.30-17.06.32:229][303]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.01.30-17.06.32:242][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.01.30-17.06.32:242][303]LogMaterial: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.30-17.06.32:254][303]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.01.30-17.06.32:257][303]LogMaterial: Display: Missing cached shader map for material M_Advect_Height_01, compiling. 
+[2021.01.30-17.06.32:263][303]LogMaterial: Display: Missing cached shader map for material MakeEdgeMask, compiling. 
+[2021.01.30-17.06.32:269][303]LogMaterial: Display: Missing cached shader map for material CopyRT, compiling. 
+[2021.01.30-17.06.32:295][303]LogMaterial: Display: Missing cached shader map for material M_ComputeNormal, compiling. 
+[2021.01.30-17.06.32:305][303]LogMaterial: Display: Missing cached shader map for material M_ComputeNormal, compiling. 
+[2021.01.30-17.06.32:317][303]LogMaterial: Display: Missing cached shader map for material FoamDeltaCopy, compiling. 
+[2021.01.30-17.06.32:337][303]LogMaterial: Display: Missing cached shader map for material ComputeVoronoiDistance, compiling. 
+[2021.01.30-17.06.32:350][303]LogMaterial: Display: Missing cached shader map for material M_RT_Normals, compiling. 
+[2021.01.30-17.06.32:356][303]LogMaterial: Display: Missing cached shader map for material M_ComputeNormal, compiling. 
+[2021.01.30-17.06.32:368][303]LogMaterial: Display: Missing cached shader map for material M_ComputeNormal, compiling. 
+[2021.01.30-17.06.32:383][303]LogStaticMesh: Building static mesh S_WaterPlane_256...
+[2021.01.30-17.06.32:586][303]LogStaticMesh: Built static mesh [0.20s] /Water/Meshes/S_WaterPlane_256.S_WaterPlane_256
+[2021.01.30-17.06.32:588][303]LogMaterial: Display: Missing cached shader map for material M_Rain_01, compiling. 
+[2021.01.30-17.06.32:598][303]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_Force_Impulse, compiling. 
+[2021.01.30-17.06.32:608][303]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.01.30-17.06.32:611][303]LogMaterial: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.30-17.06.32:611][303]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.01.30-17.06.32:613][303]LogMaterial: Display: Missing cached shader map for material BlurEdges, compiling. 
+[2021.01.30-17.06.32:622][303]LogMaterial: Display: Missing cached shader map for material DetectEdges, compiling. 
+[2021.01.30-17.06.32:632][303]LogMaterial: Display: Missing cached shader map for material JumpFloodStep, compiling. 
+[2021.01.30-17.06.32:641][303]LogMaterial: Display: Missing cached shader map for material M_SeedWater_01, compiling. 
+[2021.01.30-17.06.32:646][303]LogMaterial: Display: Missing cached shader map for material M_Advect_Height_01, compiling. 
+[2021.01.30-17.06.32:653][303]LogMaterial: Display: Missing cached shader map for material M_CalcDivergence, compiling. 
+[2021.01.30-17.06.32:658][303]LogMaterial: Display: Missing cached shader map for material M_Advect_Velocity, compiling. 
+[2021.01.30-17.06.32:663][303]LogMaterial: Display: Missing cached shader map for material M_GravAcceleration, compiling. 
+[2021.01.30-17.06.32:668][303]LogMaterial: Display: Missing cached shader map for material M_Advect_Height_01, compiling. 
+[2021.01.30-17.06.32:678][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 114
+[2021.01.30-17.06.32:678][303]LogMaterial: Display: Missing cached shader map for material DrawWaveCrests, compiling. 
+[2021.01.30-17.06.32:685][303]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_Force_Component, compiling. 
+[2021.01.30-17.06.32:693][303]LogMaterial: Display: Missing cached shader map for material PerfTestNoiseMaterial, compiling. 
+[2021.01.30-17.06.32:699][303]LogMaterial: Display: Missing cached shader map for material M_Fluid_Force_Skelmesh, compiling. 
+[2021.01.30-17.06.32:713][303]LogBlueprintEditor: Perf: 3.4 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.01.30-17.06.32:713][303]LogBlueprintEditor: Perf: 3.2 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2021.01.30-17.06.33:021][303]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 126
+[2021.01.30-17.06.33:021][303]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2021.01.30-17.06.35:455][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 116
+[2021.01.30-17.06.35:455][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 106
+[2021.01.30-17.06.35:455][303]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 96
+[2021.01.30-17.06.35:455][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 86
+[2021.01.30-17.06.35:455][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 76
+[2021.01.30-17.06.35:455][303]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 66
+[2021.01.30-17.06.36:068][303]LogSlate: Took 0.016891 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.30-17.06.36:553][304]LogSlate: Took 0.030013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.30-17.06.38:258][336]LogRenderer: Reallocating scene render targets to support 1040x520 Format 10 NumSamples 1 (Frame:1).
+[2021.01.30-17.06.38:484][340]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 57
+[2021.01.30-17.06.39:019][355]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 49
+[2021.01.30-17.06.39:273][362]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2021.01.30-17.06.39:862][379]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 36
+[2021.01.30-17.06.40:615][398]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 31
+[2021.01.30-17.06.40:746][401]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2021.01.30-17.06.40:746][401]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2021.01.30-17.06.40:937][406]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.01.30-17.06.43:479][466]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.01.30-17.06.44:121][484]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.01.30-17.06.44:269][489]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.01.30-17.06.44:335][491]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.01.30-17.06.44:439][494]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.01.30-17.06.45:161][514]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.01.30-17.06.45:500][524]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.30-17.06.45:500][524]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.30-17.06.45:914][535]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.30-17.06.45:945][536]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.01.30-17.06.46:074][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.30-17.06.58:144][933]LogTexture: Display: Building textures: T_ML_PlasticPattern06_N (BC5, 2048X2048)
+[2021.01.30-17.06.58:144][933]LogTexture: Display: Building textures: T_Revenant_Weapon_MASK (AutoDXT, 4096X4096)
+[2021.01.30-17.06.58:144][933]LogTexture: Display: Building textures: T_Revenant_Weapon_MASK2 (AutoDXT, 4096X4096)
+[2021.01.30-17.06.58:144][933]LogTexture: Display: Building textures: T_Wood02_N (BC5, 1024X1024)
+[2021.01.30-17.06.58:144][933]LogTexture: Display: Building textures: T_Revenant_Jacket_MASK (AutoDXT, 4096X4096)
+[2021.01.30-17.06.58:144][933]LogTexture: Display: Building textures: T_Revenant_Jacket_Tint (AutoDXT, 4096X4096)
+[2021.01.30-17.06.58:144][933]LogTexture: Display: Building textures: T_Primer_Black_Metal (AutoDXT, 2048X2048)
+[2021.01.30-17.06.58:144][933]LogTexture: Display: Building textures: T_Revenant_Jacket_RGB (AutoDXT, 4096X4096)
+[2021.01.30-17.06.58:144][933]LogTexture: Display: Building textures: T_Revenant_Body_Color_Overlay (AutoDXT, 4096X4096)
+[2021.01.30-17.06.58:144][933]LogTexture: Display: Building textures: T_AtmosphericCloudNoise03 (BGRA8, 2048X2048)
+[2021.01.30-17.06.59:711][933]LogTexture: Display: Building textures: T_Revenant_Jacket_N (BC5, 4096X4096)
+[2021.01.30-17.06.59:711][933]LogTexture: Display: Building textures: T_AtmosphericCloudNoise04 (DXT1, 2048X2048)
+[2021.01.30-17.07.15:406][933]LogTexture: Display: Building textures: T_metal02 (AutoDXT, 2048X2048)
+[2021.01.30-17.07.15:406][933]LogTexture: Display: Building textures: T_Rough_Metal_N (BC5, 4096X4096)
+[2021.01.30-17.07.15:406][933]LogTexture: Display: Building textures: T_WornLeather_01_N (BC5, 4096X4096)
+[2021.01.30-17.07.15:406][933]LogTexture: Display: Building textures: T_PerlinPlasma_Noisey_Packed (AutoDXT, 2048X2048)
+[2021.01.30-17.07.15:406][933]LogTexture: Display: Building textures: T_SmoothLeather_D (AutoDXT, 4096X4096)
+[2021.01.30-17.07.15:406][933]LogTexture: Display: Building textures: T_Blue_heat_Grime (AutoDXT, 4096X4096)
+[2021.01.30-17.07.15:406][933]LogTexture: Display: Building textures: T_Turbulence_Seamless (AutoDXT, 1024X1024)
+[2021.01.30-17.07.15:406][933]LogTexture: Display: Building textures: T_Plasma_Aurora_Seamless (AutoDXT, 1024X1024)
+[2021.01.30-17.07.15:406][933]LogTexture: Display: Building textures: T_Revenant_Weapon_RGB (AutoDXT, 4096X4096)
+[2021.01.30-17.07.15:406][933]LogTexture: Display: Building textures: T_Revenant_Weapon_DisplacementMask (AutoDXT, 4096X4096)
+[2021.01.30-17.07.15:406][933]LogTexture: Display: Building textures: T_Water_Screen_Noise_Soft2 (AutoDXT, 1024X1024)
+[2021.01.30-17.07.15:406][933]LogTexture: Display: Building textures: T_Flat_normal (BC5, 256X256)
+[2021.01.30-17.07.15:406][933]LogTexture: Display: Building textures: T_Revenant_Weapon_N (BC5, 4096X4096)
+[2021.01.30-17.07.15:407][933]LogTexture: Display: Building textures: T_TilingNoise06 (BGRA8, 2048X2048)
+[2021.01.30-17.07.15:407][933]LogTexture: Display: Building textures: T_noise_flamy_Tile (AutoDXT, 2048X2048)
+[2021.01.30-17.07.15:407][933]LogTexture: Display: Building textures: T_TestML_Mask (AutoDXT, 512X512)
+[2021.01.30-17.07.15:668][933]LogTexture: Display: Building textures: T_AtmosphericCloudNoise01_N (BC5, 2048X2048)
+[2021.01.30-17.07.17:632][933]LogTexture: Display: Building textures: WaterFlow_Tiling01 (BC5, 1024X1024)
+[2021.01.30-17.07.17:632][933]LogTexture: Display: Building textures: T_WaterTrickle_N (BC5, 2048X2048)
+[2021.01.30-17.07.17:632][933]LogTexture: Display: Building textures: T_AtmosphericCloudNoise01 (AutoDXT, 2048X2048)
+[2021.01.30-17.07.30:010][933]LogTexture: Display: Building textures: T_Rough_Plastic_N (BC5, 2048X2048)
+[2021.01.30-17.07.30:010][933]LogTexture: Display: Building textures: T_Revenant_Body_MASK2 (AutoDXT, 4096X4096)
+[2021.01.30-17.07.30:010][933]LogTexture: Display: Building textures: T_Revenant_Body_RGB (AutoDXT, 4096X4096)
+[2021.01.30-17.07.30:010][933]LogTexture: Display: Building textures: T_Revenant_Body_MASK (AutoDXT, 4096X4096)
+[2021.01.30-17.07.30:010][933]LogTexture: Display: Building textures: T_Revenant_Body_N (BC5, 4096X4096)
+[2021.01.30-17.07.30:010][933]LogTexture: Display: Building textures: T_Velvet_Thick_HEIGHT (G8, 2048X2048)
+[2021.01.30-17.07.30:010][933]LogTexture: Display: Building textures: T_ML_CleanPlastic01 (AutoDXT, 2048X2048)
+[2021.01.30-17.07.30:010][933]LogTexture: Display: Building textures: T_UnpleasentGreen (AutoDXT, 2048X2048)
+[2021.01.30-17.07.30:010][933]LogTexture: Display: Building textures: T_Dark_Leather_N (BC5, 2048X2048)
+[2021.01.30-17.07.30:010][933]LogTexture: Display: Building textures: T_Revenant_Arms_RGB (AutoDXT, 4096X4096)
+[2021.01.30-17.07.30:010][933]LogTexture: Display: Building textures: T_Revenant_Arms_N (BC5, 4096X4096)
+[2021.01.30-17.07.30:010][933]LogTexture: Display: Building textures: T_Blue_Metal02 (AutoDXT, 2048X2048)
+[2021.01.30-17.07.53:721][933]LogTexture: Display: Building textures: T_Revenant_Arms_MASK (AutoDXT, 4096X4096)
+[2021.01.30-17.07.53:721][933]LogTexture: Display: Building textures: T_Fuzz_MASK (AutoDXT, 2048X2048)
+[2021.01.30-17.07.53:721][933]LogTexture: Display: Building textures: T_Leather_Blue_N (BC5, 2048X2048)
+[2021.01.30-17.07.53:721][933]LogTexture: Display: Building textures: T_Velvet_Thick_RGBA (AutoDXT, 2048X2048)
+[2021.01.30-17.07.53:721][933]LogTexture: Display: Building textures: T_Rust01_N (BC5, 2048X2048)
+[2021.01.30-17.07.53:721][933]LogTexture: Display: Building textures: T_ML_Gold_Metal01 (AutoDXT, 2048X2048)
+[2021.01.30-17.07.53:721][933]LogTexture: Display: Building textures: T_Blank_N (BC5, 128X128)
+[2021.01.30-17.07.53:721][933]LogTexture: Display: Building textures: T_ML_FineLeather01_N (BC5, 2048X2048)
+[2021.01.30-17.07.53:721][933]LogTexture: Display: Building textures: T_Rubber_2_N (BC5, 2048X2048)
+[2021.01.30-17.07.53:721][933]LogTexture: Display: Building textures: T_Black_Linear (AutoDXT, 32X32)
+[2021.01.30-17.07.55:085][933]LogTexture: Display: Building textures: T_blank_Normal_N (BC5, 128X128)
+[2021.01.30-17.07.55:085][933]LogTexture: Display: Building textures: T_ML_Fabric_Blue_Medium_N (BC5, 1024X1024)
+[2021.01.30-17.07.55:085][933]LogTexture: Display: Building textures: T_Wool_Fabric_N (BC5, 2048X2048)
+[2021.01.30-17.07.55:085][933]LogTexture: Display: Building textures: T_Rubber_2 (AutoDXT, 2048X2048)
+[2021.01.30-17.08.12:868][933]LogTexture: Display: Building textures: T_Wool_Fabric_MASK (AutoDXT, 2048X2048)
+[2021.01.30-17.08.15:449][933]LogTexture: Display: Building textures: T_ML_FineLeather01 (AutoDXT, 2048X2048)
+[2021.01.30-17.08.17:718][933]LogMaterial: Display: Missing cached shader map for material M_Revenant_Weapon, compiling. 
+[2021.01.30-17.08.18:228][933]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 111
+[2021.01.30-17.08.18:228][933]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 101
+[2021.01.30-17.08.18:228][933]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 91
+[2021.01.30-17.08.18:228][933]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 81
+[2021.01.30-17.08.18:228][933]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 71
+[2021.01.30-17.08.18:229][933]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 61
+[2021.01.30-17.08.18:229][933]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2021.01.30-17.08.18:229][933]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2021.01.30-17.08.18:229][933]LogTexture: Display: Building textures: T_ML_Fabric_Dirty (AutoDXT, 1024X1024)
+[2021.01.30-17.08.19:998][933]LogTexture: Display: Building textures: T_Rust01 (AutoDXT, 2048X2048)
+[2021.01.30-17.08.23:583][933]LogMaterial: Display: Missing cached shader map for material M_Revenant_Jacket, compiling. 
+[2021.01.30-17.08.24:106][933]LogTexture: Display: Building textures: T_Wood02_D (AutoDXT, 1024X1024)
+[2021.01.30-17.08.25:029][933]LogMaterial: Display: Missing cached shader map for material M_Revenant_Gun, compiling. 
+[2021.01.30-17.08.25:475][933]LogMaterial: Display: Missing cached shader map for material M_Revenant_GlowGun, compiling. 
+[2021.01.30-17.08.25:550][933]LogMaterial: Display: Missing cached shader map for material M_Revenant_GlowEyes, compiling. 
+[2021.01.30-17.08.25:657][933]LogMaterial: Display: Missing cached shader map for material M_Revenant_EyesEffect, compiling. 
+[2021.01.30-17.08.28:302][933]LogTexture: Display: Building textures: T_Revenant_Darkness_Flesh (AutoDXT, 4096X4096)
+[2021.01.30-17.08.33:581][933]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 576
+[2021.01.30-17.08.33:581][933]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 566
+[2021.01.30-17.08.33:581][933]LogMaterial: Display: Missing cached shader map for material M_Revenant_Darkness_, compiling. 
+[2021.01.30-17.08.35:334][933]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 716
+[2021.01.30-17.08.35:334][933]LogTexture: Display: Building textures: T_Light_Green (AutoDXT, 2048X2048)
+[2021.01.30-17.08.40:397][933]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 706
+[2021.01.30-17.08.40:397][933]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 696
+[2021.01.30-17.08.40:397][933]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 686
+[2021.01.30-17.08.40:397][933]LogMaterial: Display: Missing cached shader map for material M_Revenant_Body, compiling. 
+[2021.01.30-17.08.40:671][933]LogMaterial: Display: Missing cached shader map for material M_Revenant_Arms, compiling. 
+[2021.01.30-17.08.41:136][933]LogSkeletalMesh: Building Skeletal Mesh Revenant...
+[2021.01.30-17.08.42:021][933]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 962
+[2021.01.30-17.08.42:021][933]LogSkeletalMesh: Built Skeletal Mesh [0.89s] /Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant.Revenant
+[2021.01.30-17.08.42:225][933]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 952
+[2021.01.30-17.08.42:320][933]LogAnimation: Warning: AnimBP FirstPerson_AnimBP_C is incompatible with skeleton Revenant_Skeleton, removing AnimBP from actor.
+[2021.01.30-17.08.42:331][933]LogAnimation: Warning: AnimBP FirstPerson_AnimBP_C is incompatible with skeleton Revenant_Skeleton, removing AnimBP from actor.
+[2021.01.30-17.08.42:332][933]LogAnimation: Warning: AnimBP FirstPerson_AnimBP_C is incompatible with skeleton Revenant_Skeleton, removing AnimBP from actor.
+[2021.01.30-17.08.43:794][947]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 942
+[2021.01.30-17.08.48:412][ 27]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 932
+[2021.01.30-17.08.50:263][ 67]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 922
+[2021.01.30-17.08.52:975][109]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 912
+[2021.01.30-17.08.54:825][140]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 902
+[2021.01.30-17.08.54:994][145]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 892
+[2021.01.30-17.09.00:357][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 882
+[2021.01.30-17.09.01:354][324]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 872
+[2021.01.30-17.09.02:922][367]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 862
+[2021.01.30-17.09.04:614][414]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 852
+[2021.01.30-17.09.06:038][451]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2021.01.30-17.09.06:277][451]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 842
+[2021.01.30-17.09.06:915][464]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2021.01.30-17.09.07:861][486]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 832
+[2021.01.30-17.09.08:817][511]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 822
+[2021.01.30-17.09.09:415][528]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 812
+[2021.01.30-17.09.15:870][729]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 802
+[2021.01.30-17.09.16:359][744]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 792
+[2021.01.30-17.09.16:813][758]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 782
+[2021.01.30-17.09.17:491][778]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 772
+[2021.01.30-17.09.18:317][802]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 762
+[2021.01.30-17.09.19:004][821]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.01.30-17.09.19:014][821]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.01.30-17.09.19:086][821]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-17.09.19:086][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-17.09.19:460][822]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 752
+[2021.01.30-17.09.22:078][938]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 742
+[2021.01.30-17.09.22:649][967]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 732
+[2021.01.30-17.09.23:766][  7]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.30-17.09.28:547][ 87]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 722
+[2021.01.30-17.09.28:597][ 89]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.01.30-17.09.28:606][ 89]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.01.30-17.09.28:616][ 89]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-17.09.28:616][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-17.09.29:666][117]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2021.01.30-17.09.31:448][117]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 712
+[2021.01.30-17.09.32:481][117]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 702
+[2021.01.30-17.09.33:587][117]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 692
+[2021.01.30-17.09.35:525][117]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 682
+[2021.01.30-17.09.37:056][117]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 672
+[2021.01.30-17.09.37:128][117]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-17.09.39:524][226]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.30-17.09.40:655][226]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 662
+[2021.01.30-17.09.40:655][226]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 652
+[2021.01.30-17.09.41:090][229]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 642
+[2021.01.30-17.09.42:821][270]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 632
+[2021.01.30-17.09.43:456][288]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.01.30-17.09.44:116][288]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2021.01.30-17.09.44:690][291]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 622
+[2021.01.30-17.09.45:720][314]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 612
+[2021.01.30-17.09.46:113][314]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonCharacter3A2EC5D143DE2C95A456459A3D6BDDEF.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.01.30-17.09.46:156][314]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.01.30-17.09.46:156][314]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.30-17.09.47:286][346]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.01.30-17.09.47:297][346]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.01.30-17.09.47:308][346]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-17.09.47:308][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-17.09.47:559][349]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 602
+[2021.01.30-17.09.51:576][507]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 592
+[2021.01.30-17.09.51:725][513]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 582
+[2021.01.30-17.09.54:539][630]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 572
+[2021.01.30-17.09.56:395][708]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 562
+[2021.01.30-17.09.56:902][729]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 552
+[2021.01.30-17.09.57:847][769]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 542
+[2021.01.30-17.09.58:969][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 532
+[2021.01.30-17.09.59:535][839]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 522
+[2021.01.30-17.10.00:245][870]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 512
+[2021.01.30-17.10.01:919][942]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 502
+[2021.01.30-17.10.04:258][ 23]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 492
+[2021.01.30-17.10.05:226][ 63]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 482
+[2021.01.30-17.10.05:564][ 76]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 472
