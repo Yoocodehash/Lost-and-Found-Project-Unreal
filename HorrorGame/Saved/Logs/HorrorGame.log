@@ -1300,3 +1300,361 @@ Script Stack (0 frames):
 [2021.01.30-19.39.23:093][387]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.30-19.39.23:093][387]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.01.30-19.39.23:093][387]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.40.04:261][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (10057_wooden_door_v3_iterations-2_10057_wooden_door_v1)
+[2021.01.30-19.40.30:398][995]Cmd: TRANSACTION UNDO
+[2021.01.30-19.40.30:398][995]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.30-19.43.27:859][941]LogMetaData: Removing '/Game/UIwidgets/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/UIwidgets/NewWidgetBlueprint.PackageMetaData'
+[2021.01.30-19.43.27:859][941]LogMetaData: Removing '/Game/UIwidgets/MainMenu.MainMenu_C' ref from Metadata '/Game/UIwidgets/NewWidgetBlueprint.PackageMetaData'
+[2021.01.30-19.43.27:859][941]LogMetaData: Removing '/Game/UIwidgets/MainMenu.MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UIwidgets/NewWidgetBlueprint.PackageMetaData'
+[2021.01.30-19.43.27:860][941]LogMetaData: Removing '/Game/UIwidgets/MainMenu.MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UIwidgets/NewWidgetBlueprint.PackageMetaData'
+[2021.01.30-19.43.27:860][941]LogMetaData: Removing '/Game/UIwidgets/MainMenu.MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UIwidgets/NewWidgetBlueprint.PackageMetaData'
+[2021.01.30-19.43.27:921][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIwidgets/MainMenu" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset" SILENT=true
+[2021.01.30-19.43.27:975][941]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/MainMenuDADC8B4042517B9656CA6EBFE6647A31.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset'
+[2021.01.30-19.43.28:117][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.01.30-19.43.28:147][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.01.30-19.43.28:165][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.01.30-19.43.28:272][941]AssetCheck: New page: Asset Save: MainMenu
+[2021.01.30-19.43.28:273][941]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIwidgets/MainMenu.MainMenu
+[2021.01.30-19.43.29:179][992]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIwidgets/MainMenu.MainMenu
+[2021.01.30-19.44.33:484][553]BlueprintLog: New page: Compile MainMenu
+[2021.01.30-19.44.33:679][553]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2021.01.30-19.44.34:638][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIwidgets/MainMenu" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset" SILENT=true
+[2021.01.30-19.44.34:659][596]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/MainMenu0DBEDD8C4C901386B230DFA7BE92F5F2.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset'
+[2021.01.30-19.44.34:687][596]AssetCheck: New page: Asset Save: MainMenu
+[2021.01.30-19.44.34:687][596]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIwidgets/MainMenu.MainMenu
+[2021.01.30-19.45.43:093][527]BlueprintLog: New page: Compile MainMenu
+[2021.01.30-19.45.43:636][527]LogUObjectHash: Compacting FUObjectHashTables data took  13.26ms
+[2021.01.30-19.45.44:314][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIwidgets/MainMenu" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset" SILENT=true
+[2021.01.30-19.45.44:320][552]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/MainMenu153D6A4A47BC00189F289888B469393C.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset'
+[2021.01.30-19.45.44:334][552]AssetCheck: New page: Asset Save: MainMenu
+[2021.01.30-19.45.44:334][552]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIwidgets/MainMenu.MainMenu
+[2021.01.30-19.46.11:525][152]BlueprintLog: New page: Compile MainMenu
+[2021.01.30-19.46.11:570][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.01.30-19.46.12:126][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIwidgets/MainMenu" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset" SILENT=true
+[2021.01.30-19.46.12:133][180]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/MainMenu5A25DA3D4C861C978B339F8BA7ED58D9.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset'
+[2021.01.30-19.46.12:146][180]AssetCheck: New page: Asset Save: MainMenu
+[2021.01.30-19.46.12:146][180]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIwidgets/MainMenu.MainMenu
+[2021.01.30-19.46.56:940][793]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.30-19.46.58:640][894]BlueprintLog: New page: Compile MainMenu
+[2021.01.30-19.46.58:688][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.01.30-19.46.59:293][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIwidgets/MainMenu" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset" SILENT=true
+[2021.01.30-19.46.59:301][925]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/MainMenuEE19D4014A8A3CDB1A14FC8A1BEC0ADE.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset'
+[2021.01.30-19.46.59:317][925]AssetCheck: New page: Asset Save: MainMenu
+[2021.01.30-19.46.59:317][925]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIwidgets/MainMenu.MainMenu
+[2021.01.30-19.47.43:609][542]BlueprintLog: New page: Compile MainMenu
+[2021.01.30-19.47.43:655][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.01.30-19.47.44:243][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIwidgets/MainMenu" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset" SILENT=true
+[2021.01.30-19.47.44:251][576]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/MainMenu32632B6E4CEC8CDF7073AB9AC72CCA28.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset'
+[2021.01.30-19.47.44:265][576]AssetCheck: New page: Asset Save: MainMenu
+[2021.01.30-19.47.44:265][576]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIwidgets/MainMenu.MainMenu
+[2021.01.30-19.47.58:261][395]BlueprintLog: New page: Compile MainMenu
+[2021.01.30-19.47.58:308][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.01.30-19.47.58:848][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIwidgets/MainMenu" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset" SILENT=true
+[2021.01.30-19.47.58:859][426]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/MainMenu3F6AD87747628A09463D73847B10C45C.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset'
+[2021.01.30-19.47.58:872][426]AssetCheck: New page: Asset Save: MainMenu
+[2021.01.30-19.47.58:872][426]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIwidgets/MainMenu.MainMenu
+[2021.01.30-19.48.10:717][118]BlueprintLog: New page: Compile MainMenu
+[2021.01.30-19.48.10:762][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.01.30-19.48.11:437][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIwidgets/MainMenu" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset" SILENT=true
+[2021.01.30-19.48.11:447][147]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/MainMenu5488CB7640BAEEB8B73FEDB5E2E2AF87.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/UIwidgets/MainMenu.uasset'
+[2021.01.30-19.48.11:460][147]AssetCheck: New page: Asset Save: MainMenu
+[2021.01.30-19.48.11:460][147]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIwidgets/MainMenu.MainMenu
+[2021.01.30-19.48.16:534][448]LogSlate: Window 'MainMenu' being destroyed
+[2021.01.30-19.48.16:541][448]LogSlate: Window 'MainMenu' being destroyed
+[2021.01.30-19.48.16:745][448]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.48.16:745][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.48.16:771][448]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.48.16:771][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.48.19:466][596]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2021.01.30-19.48.57:269][695]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.30-19.48.57:369][695]LogBlueprint: Error: [AssetLog] D:\Lost-and-Found-Project-Unreal\HorrorGame\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2021.01.30-19.48.57:531][695]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.01.30-19.49.08:181][306]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.30-19.49.08:393][306]LogUObjectHash: Compacting FUObjectHashTables data took   9.75ms
+[2021.01.30-19.49.09:165][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.01.30-19.49.09:198][339]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMapCFF3FC734839C03AABAD51B65268FD74.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.49.09:207][339]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.083
+[2021.01.30-19.49.09:219][339]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-19.49.09:219][339]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.49.16:334][762]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2021.01.30-19.49.16:344][762]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2021.01.30-19.49.16:348][762]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.49.16:348][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.49.18:180][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.01.30-19.49.20:014][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.01.30-19.49.20:047][976]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap80EBD15A4CD98427D05051B90B7AC735.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.49.21:758][976]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_BuiltData71F232CE482A2E997C619EA8558AA83A.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.30-19.49.21:787][976]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-19.49.21:787][976]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.30-19.49.21:787][976]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.49.22:495][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-19.49.22:572][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-19.49.22:583][ 13]PIE: New page: PIE session: FirstPersonExampleMap (Jan. 30, 2021, 9:49:22 a.m.)
+[2021.01.30-19.49.22:675][ 13]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.30-19.49.22:680][ 13]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.30-19.49.22:682][ 13]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.30-19.49.22:733][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051651s)
+[2021.01.30-19.49.22:748][ 13]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.30-19.49.22:764][ 13]LogPlayLevel: PIE: World Init took: (0.029652s)
+[2021.01.30-19.49.22:765][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.082388s)
+[2021.01.30-19.49.22:786][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.01.30-19.49.22:788][ 13]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.01.30-19.49.22:788][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-19.49.22:788][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-19.49.22:788][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-19.49.22:788][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-19.49.22:788][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-19.49.22:788][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-19.49.22:788][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-19.49.22:788][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-19.49.22:789][ 13]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-19.49.22:789][ 13]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-19.49.22:812][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-19.49.22:812][ 13]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-19.49.22:812][ 13]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.30-19.49.22:812][ 13]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.30-19.49.22:812][ 13]LogAudioMixer: Display: 4: BackLeft
+[2021.01.30-19.49.22:812][ 13]LogAudioMixer: Display: 5: BackRight
+[2021.01.30-19.49.22:812][ 13]LogAudioMixer: Display: 6: SideLeft
+[2021.01.30-19.49.22:812][ 13]LogAudioMixer: Display: 7: SideRight
+[2021.01.30-19.49.22:846][ 13]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.30-19.49.22:846][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-19.49.22:847][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-19.49.22:847][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-19.49.22:847][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-19.49.22:847][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-19.49.22:847][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.30-19.49.22:867][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-19.49.22:867][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-19.49.22:867][ 13]LogInit: FAudioDevice initialized.
+[2021.01.30-19.49.22:867][ 13]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2021.01.30-19.49.22:914][ 13]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.30-19.49.22:918][ 13]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.01.30-14.49.22
+[2021.01.30-19.49.22:929][ 13]LogWorld: Bringing up level for play took: 0.014104
+[2021.01.30-19.49.22:931][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.01.30-19.49.23:057][ 13]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.01.30-19.49.23:156][ 13]PIE: Server logged in
+[2021.01.30-19.49.23:171][ 13]PIE: Play in editor total start time 0.654 seconds.
+[2021.01.30-19.49.26:221][170]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.01.30-19.49.26:356][170]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.01.30-19.49.26:356][170]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.30-19.49.26:362][170]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.49.26:363][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.49.26:455][170]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-19.49.26:665][170]LogUObjectHash: Compacting FUObjectHashTables data took  10.52ms
+[2021.01.30-19.49.26:695][170]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.30-19.49.26:734][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039262s)
+[2021.01.30-19.49.26:737][170]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.30-19.49.26:738][170]LogPlayLevel: PIE: World Init took: (0.004122s)
+[2021.01.30-19.49.26:738][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.043883s)
+[2021.01.30-19.49.26:738][170]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2021.01.30-19.49.26:739][170]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.30-19.49.26:753][170]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.01.30-14.49.26
+[2021.01.30-19.49.26:754][170]LogWorld: Bringing up level for play took: 0.012506
+[2021.01.30-19.49.26:761][170]LogLoad: Took 0.405348 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap)
+[2021.01.30-19.49.28:010][239]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.01.30-19.49.28:010][239]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.01.30-19.49.28:010][239]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.30-19.49.28:011][239]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.49.28:011][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.49.28:029][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-19.49.28:058][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.01.30-19.49.28:059][239]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.30-19.49.28:071][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011582s)
+[2021.01.30-19.49.28:072][239]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.30-19.49.28:072][239]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2021.01.30-19.49.28:073][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013057s)
+[2021.01.30-19.49.28:073][239]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2021.01.30-19.49.28:073][239]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.30-19.49.28:076][239]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.01.30-14.49.28
+[2021.01.30-19.49.28:077][239]LogWorld: Bringing up level for play took: 0.003065
+[2021.01.30-19.49.28:078][239]LogLoad: Took 0.066992 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap)
+[2021.01.30-19.49.29:314][312]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.01.30-19.49.29:314][312]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.01.30-19.49.29:314][312]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.30-19.49.29:314][312]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.49.29:315][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.49.29:329][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-19.49.29:331][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.01.30-19.49.29:332][312]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.30-19.49.29:344][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011280s)
+[2021.01.30-19.49.29:345][312]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.30-19.49.29:345][312]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2021.01.30-19.49.29:345][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012850s)
+[2021.01.30-19.49.29:345][312]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2021.01.30-19.49.29:345][312]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.30-19.49.29:350][312]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.01.30-14.49.29
+[2021.01.30-19.49.29:350][312]LogWorld: Bringing up level for play took: 0.004525
+[2021.01.30-19.49.29:351][312]LogLoad: Took 0.037421 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap)
+[2021.01.30-19.49.30:755][395]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.01.30-19.49.30:755][395]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.01.30-19.49.30:755][395]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.30-19.49.30:755][395]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.49.30:755][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.49.30:791][395]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-19.49.30:793][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.01.30-19.49.30:794][395]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.30-19.49.30:806][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011309s)
+[2021.01.30-19.49.30:807][395]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.30-19.49.30:807][395]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2021.01.30-19.49.30:807][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012901s)
+[2021.01.30-19.49.30:807][395]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2021.01.30-19.49.30:807][395]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.30-19.49.30:813][395]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.01.30-14.49.30
+[2021.01.30-19.49.30:814][395]LogWorld: Bringing up level for play took: 0.005496
+[2021.01.30-19.49.30:815][395]LogLoad: Took 0.059888 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap)
+[2021.01.30-19.49.32:067][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.49.32:067][452]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.30-19.49.32:067][452]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.49.32:068][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.49.32:078][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-19.49.32:082][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.49.32:098][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.49.32:142][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-19.49.32:153][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-19.49.32:261][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.01.30-19.49.32:287][453]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.01.30-19.49.37:784][774]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2021.01.30-19.50.25:488][463]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.30-19.50.25:525][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.01.30-19.50.26:388][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.01.30-19.50.26:421][510]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap0EAC02C4410812C7B482BEA528530D72.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.50.26:429][510]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.069
+[2021.01.30-19.50.26:437][510]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-19.50.26:437][510]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.50.30:727][766]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2021.01.30-19.50.30:730][766]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2021.01.30-19.50.30:756][766]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.50.30:756][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.50.32:243][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.01.30-19.50.33:593][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.01.30-19.50.33:628][930]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMapC58F234C4A7D3477BE4097B419A755E3.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.50.35:419][930]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_BuiltData69A9C10F49672DBF99C8659078658187.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.30-19.50.35:443][930]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-19.50.35:443][930]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.30-19.50.35:443][930]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.51.19:261][729]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2021.01.30-19.51.21:461][729]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-19.51.21:574][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.30-19.51.21:578][729]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/MainMenuEE9DCA534DCF2935CB28B3AE362FFB7D.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/MainMenu.umap'
+[2021.01.30-19.51.21:579][729]LogFileHelpers: Saving map 'MainMenu' took 0.043
+[2021.01.30-19.51.21:609][729]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/MainMenu.MainMenu
+[2021.01.30-19.51.21:609][729]Cmd: MAP LOAD FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-19.51.21:609][729]LightingResults: New page: Lighting Build
+[2021.01.30-19.51.21:609][729]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.01.30-19.51.21:670][729]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.51.21:693][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.51.21:693][729]MapCheck: New page: Map Check
+[2021.01.30-19.51.21:693][729]LightingResults: New page: Lighting Build
+[2021.01.30-19.51.21:719][729]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-19.51.21:725][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.01.30-19.51.21:772][729]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.01.30-19.51.21:828][729]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-19.51.21:828][729]LogAIModule: Creating AISystem for world MainMenu
+[2021.01.30-19.51.21:850][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.30-19.51.21:856][729]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-19.51.21:856][729]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2021.01.30-19.51.21:856][729]LogFileHelpers: Loading map 'MainMenu' took 0.247
+[2021.01.30-19.51.21:872][729]AssetCheck: New page: Asset Save: MainMenu
+[2021.01.30-19.51.21:872][729]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/MainMenu.MainMenu
+[2021.01.30-19.51.26:126][974]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.01.30-19.51.34:778][456]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.30-19.52.02:988][108]BlueprintLog: New page: Compile MainMenu
+[2021.01.30-19.52.03:023][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.01.30-19.52.03:832][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.01.30-19.52.03:839][153]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/MainMenuCB8B9D4A46B884B1555C09983F832AFD.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/MainMenu.umap'
+[2021.01.30-19.52.03:846][153]LogFileHelpers: Saving map 'MainMenu' took 0.037
+[2021.01.30-19.52.03:858][153]AssetCheck: New page: Asset Save: MainMenu
+[2021.01.30-19.52.03:858][153]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/MainMenu.MainMenu
+[2021.01.30-19.52.06:759][322]LogSlate: Window 'MainMenu' being destroyed
+[2021.01.30-19.52.06:763][322]LogSlate: Window 'MainMenu' being destroyed
+[2021.01.30-19.52.06:767][322]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.52.06:767][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.52.08:013][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.01.30-19.52.09:229][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.30-19.52.09:235][462]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/MainMenu3A1EB60649C215130B2736AAF4E9E965.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/MainMenu.umap'
+[2021.01.30-19.52.09:254][462]AssetCheck: New page: Asset Save: MainMenu
+[2021.01.30-19.52.09:254][462]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/MainMenu.MainMenu
+[2021.01.30-19.52.10:842][558]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-19.52.10:862][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-19.52.10:862][558]PIE: New page: PIE session: MainMenu (Jan. 30, 2021, 9:52:10 a.m.)
+[2021.01.30-19.52.10:897][558]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2021.01.30-19.52.10:899][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001807s)
+[2021.01.30-19.52.10:901][558]LogAIModule: Creating AISystem for world MainMenu
+[2021.01.30-19.52.10:901][558]LogPlayLevel: PIE: World Init took: (0.001960s)
+[2021.01.30-19.52.10:901][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.004054s)
+[2021.01.30-19.52.10:944][558]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.01.30-19.52.10:944][558]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.01.30-19.52.10:944][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-19.52.10:944][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-19.52.10:944][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-19.52.10:944][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-19.52.10:944][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-19.52.10:944][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-19.52.10:944][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-19.52.10:944][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-19.52.10:946][558]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-19.52.10:946][558]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-19.52.10:951][558]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-19.52.10:951][558]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-19.52.10:951][558]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.30-19.52.10:951][558]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.30-19.52.10:951][558]LogAudioMixer: Display: 4: BackLeft
+[2021.01.30-19.52.10:951][558]LogAudioMixer: Display: 5: BackRight
+[2021.01.30-19.52.10:951][558]LogAudioMixer: Display: 6: SideLeft
+[2021.01.30-19.52.10:951][558]LogAudioMixer: Display: 7: SideRight
+[2021.01.30-19.52.10:988][558]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.30-19.52.10:988][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-19.52.10:988][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-19.52.10:988][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-19.52.10:989][558]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-19.52.10:989][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-19.52.10:989][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.30-19.52.11:007][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-19.52.11:007][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-19.52.11:007][558]LogInit: FAudioDevice initialized.
+[2021.01.30-19.52.11:007][558]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2021.01.30-19.52.11:018][558]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.30-19.52.11:019][558]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.01.30-14.52.11
+[2021.01.30-19.52.11:019][558]LogWorld: Bringing up level for play took: 0.000264
+[2021.01.30-19.52.11:019][558]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.01.30-19.52.11:062][558]PIE: Server logged in
+[2021.01.30-19.52.11:063][558]PIE: Play in editor total start time 0.209 seconds.
+[2021.01.30-19.52.12:357][636]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.01.30-19.52.12:357][636]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.01.30-19.52.12:357][636]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2021.01.30-19.52.12:358][636]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.52.12:358][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.52.12:382][636]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-19.52.12:385][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.30-19.52.12:626][636]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2021.01.30-19.52.12:628][636]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.30-19.52.12:628][636]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.30-19.52.12:636][636]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.01.30-14.52.12
+[2021.01.30-19.52.12:636][636]LogWorld: Bringing up level for play took: 0.006793
+[2021.01.30-19.52.12:640][636]LogLoad: Took 0.282902 seconds to LoadMap(/Game/FirstPersonBP/Maps/FirstPersonExampleMap)
+[2021.01.30-19.52.12:852][636]LogAudio: Warning: Detected orphaned looping sound 'Suspense_music_A'.
+[2021.01.30-19.52.12:870][636]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Suspense_music_A...
+[2021.01.30-19.52.12:889][636]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Music/Suspense_music_A.Suspense_music_A will be modified from 40 to 40.
+[2021.01.30-19.52.14:424][636]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 18579456 while cooking SoundWave /Game/Music/Suspense_music_A.Suspense_music_A.
+[2021.01.30-19.52.17:468][802]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.30-19.52.17:691][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.52.17:691][812]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.30-19.52.17:691][812]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.52.17:692][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.52.17:701][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-19.52.17:705][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.52.17:723][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-19.52.17:723][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-19.52.17:724][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-19.52.17:759][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-19.52.17:762][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.01.30-19.52.17:780][813]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.01.30-19.52.37:298][ 74]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.30-19.53.15:434][251]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.30-19.53.15:438][251]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.30-19.53.16:868][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.01.30-19.53.17:999][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.01.30-19.53.18:006][391]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/MainMenuE9E8674C4B05D0E9A8D9368C7535C617.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/MainMenu.umap'
+[2021.01.30-19.53.18:026][391]AssetCheck: New page: Asset Save: MainMenu
+[2021.01.30-19.53.18:026][391]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/MainMenu.MainMenu
