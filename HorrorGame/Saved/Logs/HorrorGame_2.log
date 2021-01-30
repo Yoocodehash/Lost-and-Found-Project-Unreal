@@ -2178,3 +2178,79 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.01.30-16.54.01:467][ 91]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
 [2021.01.30-16.54.01:467][ 91]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
 [2021.01.30-16.54.01:482][ 92]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.01.30-16.57.13:470][670]LogTexture: Display: Building textures: WaterSprite (AutoDXT, 256X256)
+[2021.01.30-16.57.13:470][670]LogTexture: Display: Building textures: WaterBodyOceanSprite (AutoDXT, 256X256)
+[2021.01.30-16.57.13:470][670]LogTexture: Display: Building textures: T_Water_TilingNormal_With_Height_02_Softened (AutoDXT, 1024X1024)
+[2021.01.30-16.57.13:470][670]LogTexture: Display: Building textures: T_WaterFlow_01_Foam_Tiled_N (BC5, 2048X2048)
+[2021.01.30-16.57.13:470][670]LogTexture: Display: Building textures: T_WaterFlow_01_Foam_Tiled (AutoDXT, 2048X2048)
+[2021.01.30-16.57.13:470][670]LogMaterial: Display: Missing cached shader map for material Water_Material, compiling. 
+[2021.01.30-16.57.13:537][670]LogMaterial: Display: Missing cached shader map for material Water_Material, compiling. 
+[2021.01.30-16.57.13:605][670]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 121
+[2021.01.30-16.57.13:605][670]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 111
+[2021.01.30-16.57.13:606][670]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 101
+[2021.01.30-16.57.13:606][670]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 91
+[2021.01.30-16.57.13:606][670]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 81
+[2021.01.30-16.57.13:606][670]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 71
+[2021.01.30-16.57.13:606][670]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 61
+[2021.01.30-16.57.13:606][670]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 51
+[2021.01.30-16.57.13:606][670]LogMaterial: Display: Missing cached shader map for material Water_Material, compiling. 
+[2021.01.30-16.57.13:770][670]LogMaterial: Display: Missing cached shader map for material M_UnderWater_PostProcess_Volume, compiling. 
+[2021.01.30-16.57.42:088][983]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 295
+[2021.01.30-16.57.43:511][ 60]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 285
+[2021.01.30-16.57.46:771][193]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 275
+[2021.01.30-16.57.47:919][240]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 265
+[2021.01.30-16.57.50:510][361]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 255
+[2021.01.30-16.57.56:904][707]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 245
+[2021.01.30-16.58.04:881][138]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 235
+[2021.01.30-16.58.05:119][151]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 225
+[2021.01.30-16.58.05:224][157]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 215
+[2021.01.30-16.58.29:599][467]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 205
+[2021.01.30-16.58.32:714][641]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 195
+[2021.01.30-16.58.32:928][653]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 185
+[2021.01.30-16.58.34:210][724]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 175
+[2021.01.30-16.58.34:241][725]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 165
+[2021.01.30-16.58.35:335][759]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 155
+[2021.01.30-16.58.38:741][944]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 145
+[2021.01.30-16.58.55:908][866]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 135
+[2021.01.30-16.58.57:366][946]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 125
+[2021.01.30-16.59.01:887][190]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 115
+[2021.01.30-16.59.04:487][332]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 105
+[2021.01.30-16.59.15:927][942]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 95
+[2021.01.30-16.59.18:290][ 64]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 85
+[2021.01.30-16.59.21:340][204]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 75
+[2021.01.30-16.59.33:199][791]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 65
+[2021.01.30-16.59.33:610][812]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 56
+[2021.01.30-16.59.42:912][307]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 48
+[2021.01.30-16.59.43:668][349]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 41
+[2021.01.30-16.59.48:193][546]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2021.01.30-16.59.51:594][721]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2021.01.30-16.59.54:065][849]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2021.01.30-17.00.01:896][236]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2021.01.30-17.00.02:448][268]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.01.30-17.00.05:110][425]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.01.30-17.00.06:191][488]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.30-17.00.06:846][526]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.01.30-17.00.07:934][590]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.01.30-17.00.08:153][603]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.30-17.00.08:660][626]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.01.30-17.00.09:340][666]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.30-17.00.09:823][695]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.01.30-17.00.09:841][696]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.01.30-17.00.10:703][747]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.01.30-17.00.11:004][765]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.30-17.00.38:392][384]Cmd: TRANSACTION UNDO
+[2021.01.30-17.00.38:392][384]LogEditorTransaction: Undo Move Actors
+[2021.01.30-17.00.38:848][384]LogSlate: Took 0.000454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.30-17.00.41:074][505]Cmd: TRANSACTION UNDO
+[2021.01.30-17.00.41:074][505]LogEditorTransaction: Undo Move Actors
+[2021.01.30-17.00.41:408][525]Cmd: TRANSACTION UNDO
+[2021.01.30-17.00.41:408][525]LogEditorTransaction: Undo Move Actors
+[2021.01.30-17.00.41:824][550]Cmd: TRANSACTION UNDO
+[2021.01.30-17.00.41:824][550]LogEditorTransaction: Undo Move Actors
+[2021.01.30-17.00.42:141][569]Cmd: TRANSACTION UNDO
+[2021.01.30-17.00.42:141][569]LogEditorTransaction: Undo Move Actors
+[2021.01.30-17.00.42:441][587]Cmd: TRANSACTION UNDO
+[2021.01.30-17.00.42:441][587]LogEditorTransaction: Undo Move Actors
+[2021.01.30-17.00.42:774][607]Cmd: TRANSACTION UNDO
+[2021.01.30-17.00.42:775][607]LogEditorTransaction: Undo Create Actors
+[2021.01.30-17.00.57:313][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
