@@ -1014,3 +1014,212 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.01.30-22.36.51:495][138]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.30-22.36.51:495][138]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.01.30-22.36.51:495][138]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-22.37.23:746][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling)
+[2021.01.30-22.37.42:673][567]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (10057_wooden_door_v3_iterations-2_10057_wooden_door_v1)
+[2021.01.30-22.37.49:467][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (10057_wooden_door_v3_iterations-2_10057_wooden_door_v1)
+[2021.01.30-22.38.03:385][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.30-22.38.05:291][735]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-22.38.05:348][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.30-22.38.05:391][735]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap22732D2648AB7BE82B9919B9D8EBFD19.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-22.38.05:398][735]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.059
+[2021.01.30-22.38.05:404][735]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-22.38.05:404][735]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-22.38.06:750][816]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-22.38.06:974][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-22.38.06:986][816]PIE: New page: PIE session: FirstPersonExampleMap (Jan. 30, 2021, 12:38:06 p.m.)
+[2021.01.30-22.38.07:054][816]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.30-22.38.07:058][816]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.30-22.38.07:062][816]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.30-22.38.07:180][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117671s)
+[2021.01.30-22.38.07:191][816]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.30-22.38.07:210][816]LogPlayLevel: PIE: World Init took: (0.030576s)
+[2021.01.30-22.38.07:211][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.149723s)
+[2021.01.30-22.38.07:221][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.01.30-22.38.07:226][816]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.01.30-22.38.07:226][816]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-22.38.07:226][816]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-22.38.07:226][816]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-22.38.07:226][816]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-22.38.07:226][816]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-22.38.07:226][816]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-22.38.07:226][816]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-22.38.07:226][816]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-22.38.07:227][816]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-22.38.07:227][816]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-22.38.07:261][816]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-22.38.07:261][816]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-22.38.07:261][816]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.30-22.38.07:261][816]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.30-22.38.07:261][816]LogAudioMixer: Display: 4: BackLeft
+[2021.01.30-22.38.07:261][816]LogAudioMixer: Display: 5: BackRight
+[2021.01.30-22.38.07:261][816]LogAudioMixer: Display: 6: SideLeft
+[2021.01.30-22.38.07:261][816]LogAudioMixer: Display: 7: SideRight
+[2021.01.30-22.38.07:309][816]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.30-22.38.07:309][816]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-22.38.07:309][816]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-22.38.07:309][816]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-22.38.07:310][816]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-22.38.07:310][816]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-22.38.07:310][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.30-22.38.07:325][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-22.38.07:325][816]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-22.38.07:325][816]LogInit: FAudioDevice initialized.
+[2021.01.30-22.38.07:325][816]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2021.01.30-22.38.07:379][816]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.30-22.38.07:532][816]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.01.30-17.38.07
+[2021.01.30-22.38.07:543][816]LogWorld: Bringing up level for play took: 0.032463
+[2021.01.30-22.38.07:584][816]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.01.30-22.38.07:844][816]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 20 classes and 0 folders.
+[2021.01.30-22.38.07:932][816]PIE: Server logged in
+[2021.01.30-22.38.07:952][816]PIE: Play in editor total start time 1.195 seconds.
+[2021.01.30-22.38.08:221][816]LogAudio: Warning: Detected orphaned looping sound 'Suspense_music_A'.
+[2021.01.30-22.38.16:690][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-22.38.16:700][282]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.30-22.38.16:743][282]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-22.38.16:761][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-22.38.17:010][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-22.38.17:061][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-22.38.17:072][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-22.38.17:099][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-22.38.17:104][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-22.38.17:255][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.01.30-22.38.17:309][283]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.01.30-22.38.46:249][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.01.30-22.38.46:321][970]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap381A6DB04F78F19E9A26FAABFCAECDB6.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-22.38.48:489][970]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_BuiltData1EF4B3E74DC926B5369871A89506B148.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.30-22.38.48:524][970]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-22.38.48:524][970]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.30-22.38.48:524][970]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-22.38.58:848][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.01.30-22.39.00:135][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (10057_wooden_door_v3_iterations-2_10057_wooden_door_v1)
+[2021.01.30-22.39.03:142][839]MapCheck: New page: Map Check
+[2021.01.30-22.39.03:157][839]LightingResults: New page: Lighting Build - Jan. 30, 2021, 12:39:03 p.m.
+[2021.01.30-22.39.03:163][839]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.30-22.39.03:165][839]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.30-22.39.03:165][839]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.30-22.39.03:166][839]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.30-22.39.03:166][839]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1956
+[2021.01.30-22.39.07:928][839]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.30-22.39.07:928][839]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.30-22.39.07:929][839]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.30-22.39.07:929][839]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.30-22.39.07:929][839]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.30-22.39.08:104][839]LogEditorBuildUtils: Build time 0:04
+[2021.01.30-22.39.08:181][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.01.30-22.41.32:814][938]Job is a success!
+[2021.01.30-22.41.33:293][939]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2021.01.30-22.41.33:294][939]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.01.30-22.41.33:294][939]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2021.01.30-22.41.33:294][939]LogVolumetricLightmapImport:      Bricks at depth
+[2021.01.30-22.41.33:294][939]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2021.01.30-22.41.33:294][939]LogVolumetricLightmapImport:          1: 9.8% covering 6.2% of volume
+[2021.01.30-22.41.33:294][939]LogVolumetricLightmapImport:          2: 87.8% covering 0.9% of volume
+[2021.01.30-22.41.33:294][939]LogVolumetricLightmapImport:      Bricks in each level
+[2021.01.30-22.41.33:294][939]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 41 bricks 	 100.0% (Persistent Level)
+[2021.01.30-22.41.46:587][939]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:587][939]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:587][939]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:587][939]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:587][939]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:587][939]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:587][939]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:588][939]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:588][939]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:588][939]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:588][939]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:588][939]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:588][939]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:685][939]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:685][939]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:685][939]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:685][939]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:685][939]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:685][939]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:685][939]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:685][939]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:685][939]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:685][939]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:685][939]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:685][939]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:685][939]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 2048X1024)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 2048X2048)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 2048X2048)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 128X64)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 64X32)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 64X64)
+[2021.01.30-22.41.46:686][939]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 64X64)
+[2021.01.30-22.41.47:387][939]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 1024X1024)
+[2021.01.30-22.41.47:387][939]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 1024X1024)
+[2021.01.30-22.41.47:387][939]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 1024X1024)
+[2021.01.30-22.41.47:387][939]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (BGRA8, 1024X1024)
+[2021.01.30-22.41.47:396][939]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (BGRA8, 1024X1024)
+[2021.01.30-22.41.47:587][939]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (BGRA8, 1024X1024)
+[2021.01.30-22.41.47:587][939]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (BGRA8, 1024X1024)
+[2021.01.30-22.41.47:587][939]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (BGRA8, 1024X1024)
+[2021.01.30-22.41.47:587][939]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (BGRA8, 1024X1024)
+[2021.01.30-22.41.47:587][939]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (BGRA8, 1024X1024)
+[2021.01.30-22.41.48:187][939]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 1024X1024)
+[2021.01.30-22.41.48:187][939]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 1024X1024)
+[2021.01.30-22.41.48:187][939]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 1024X1024)
+[2021.01.30-22.41.48:187][939]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 1024X1024)
+[2021.01.30-22.41.48:187][939]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 1024X1024)
+[2021.01.30-22.41.48:387][939]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 1024X1024)
+[2021.01.30-22.41.48:387][939]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 1024X1024)
+[2021.01.30-22.41.48:387][939]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 1024X1024)
+[2021.01.30-22.41.48:387][939]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 1024X1024)
+[2021.01.30-22.41.48:387][939]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (BGRA8, 64X64)
+[2021.01.30-22.41.48:387][939]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (G8, 32X32)
+[2021.01.30-22.41.48:387][939]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 1024X1024)
+[2021.01.30-22.41.48:787][939]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 1024X1024)
+[2021.01.30-22.41.48:787][939]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 1024X1024)
+[2021.01.30-22.41.48:984][939]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 1024X1024)
+[2021.01.30-22.41.48:984][939]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 1024X1024)
+[2021.01.30-22.41.48:984][939]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 1024X1024)
+[2021.01.30-22.41.48:984][939]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (G8, 1024X1024)
+[2021.01.30-22.41.48:984][939]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 1024X1024)
+[2021.01.30-22.41.48:984][939]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 1024X1024)
+[2021.01.30-22.41.48:984][939]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 30 meshes in 30 LightmapResourceClusters (1.0 Meshes per cluster).
+[2021.01.30-22.41.49:058][939]Lightmass on MSI: 2:40 min total, 114 ms importing, 4 ms setup, 17.9 sec photons, 2:21 min processing, 0 ms extra exporting [30/30 mappings]. Threads: 26:01 min total, 14:38 min processing.
+[2021.01.30-22.41.49:058][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.01.30-22.41.49:191][939]LogStaticLightingSystem: Illumination: 2:45 min (12.1 sec encoding lightmaps, 2.29 sec encoding shadowmaps)
+[2021.01.30-22.41.49:191][939]LogStaticLightingSystem: Lightmap texture memory:  149.4 MB (149.4 MB streaming, 0.0 MB non-streaming), 32 textures
+[2021.01.30-22.41.49:191][939]LogStaticLightingSystem: Shadowmap texture memory: 65.4 MB (65.4 MB streaming, 0.0 MB non-streaming), 30 textures
+[2021.01.30-22.41.50:113][939]DumpUnbuiltLightIteractions
+[2021.01.30-22.41.50:113][939]Lights with unbuilt interactions: 0
+[2021.01.30-22.41.50:113][939]
+[2021.01.30-22.41.50:113][939]Primitives with unbuilt interactions: 0
+[2021.01.30-22.41.50:287][939]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.01.30-22.41.50:366][940]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.30-22.41.50:366][940]MapCheck: New page: FirstPersonExampleMap - Jan. 30, 2021, 12:41:50 p.m.
+[2021.01.30-22.41.50:367][940]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.965ms to complete.
+[2021.01.30-22.41.53:618][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.30-22.41.55:055][110]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-22.41.55:125][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.01.30-22.41.55:168][110]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap3BA111F440D27E715F3A41860942F443.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-22.41.55:175][110]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.061
+[2021.01.30-22.41.57:051][110]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_BuiltData7E7B28264179D07917222FB9B3654C5E.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.30-22.41.57:075][110]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-22.41.57:075][110]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.30-22.41.57:075][110]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-22.41.58:678][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.01.30-22.41.58:860][203]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMapA0E9C3AF4EE028D8B86BB7BF213A1783.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-22.42.01:578][203]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_BuiltData34B50FCA4B329A6DE00794B5849C983B.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.30-22.42.01:617][203]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-22.42.01:618][203]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.30-22.42.01:618][203]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
