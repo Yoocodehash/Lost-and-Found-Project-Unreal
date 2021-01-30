@@ -1123,3 +1123,142 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.01.30-19.21.59:663][615]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.30-19.21.59:663][615]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.01.30-19.21.59:663][615]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.22.47:541][ 36]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2021.01.30-19.22.49:602][ 36]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.01.30-19.22.49:603][ 36]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.01.30-19.22.49:603][ 36]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.01.30-19.22.51:041][ 36]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.01.30-19.22.51:056][ 36]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2021.01.30-19.22.51:060][ 36]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.01.30-19.22.51:060][ 36]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2021.01.30-19.22.51:230][ 36]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.01.30-19.22.51:261][ 36]LogMaterial: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.30-19.22.51:266][ 36]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.01.30-19.22.51:269][ 36]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.01.30-19.22.51:274][ 36]LogMaterial: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.30-19.22.51:274][ 36]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.01.30-19.22.51:435][ 36]LogBlueprintEditor: Perf: 3.5 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.01.30-19.22.51:435][ 36]LogBlueprintEditor: Perf: 3.0 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2021.01.30-19.22.51:435][ 36]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2021.01.30-19.22.52:014][ 36]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 126 classes and 0 folders.
+[2021.01.30-19.22.55:618][ 36]LogSlate: Took 0.017311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.30-19.23.12:115][828]LogEditorTransaction: Undo Add Node
+[2021.01.30-19.25.43:290][879]LogSlate: Window 'Message' being destroyed
+[2021.01.30-19.25.43:306][879]Message dialog closed, result: YesAll, title: Message, text: Do you want to replace the existing asset?
+
+An asset already exists at the import location: /Game/Music/Suspense_music_A
+[2021.01.30-19.25.43:388][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.01.30-19.25.43:523][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.01.30-19.25.43:544][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.01.30-19.25.43:564][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.01.30-19.25.43:622][879]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/osama/Downloads/Suspense music A.wav)
+[2021.01.30-19.30.02:081][225]LogEditorTransaction: Undo Change Object Pin Value
+[2021.01.30-19.30.02:314][229]LogEditorTransaction: Undo Add Node
+[2021.01.30-19.30.02:525][232]LogEditorTransaction: Undo Add Node
+[2021.01.30-19.30.04:109][320]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.30-19.30.04:356][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.01.30-19.30.04:406][320]LogSlate: Took 0.018998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.30-19.30.04:688][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.30-19.30.04:720][329]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap455288944E12F57F71E2C4B96FAF8DCD.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.30.04:727][329]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.079
+[2021.01.30-19.30.04:740][329]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-19.30.04:740][329]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.30.05:818][386]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2021.01.30-19.30.05:826][386]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2021.01.30-19.30.05:833][386]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.30.05:833][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.31.12:877][318]Cmd: DELETE
+[2021.01.30-19.31.13:216][318]Cmd: ACTOR DELETE
+[2021.01.30-19.31.13:653][318]LogEditorActor: Deleted Actor: AmbientSound
+[2021.01.30-19.31.13:710][318]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.01.30-19.31.13:716][318]LogEditorActor: Deleted 1 Actors (0.111 secs)
+[2021.01.30-19.31.15:915][438]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2021.01.30-19.31.36:018][513]LogSlate: Took 0.015504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.30-19.31.42:861][906]LogEditorTransaction: Undo Add Node
+[2021.01.30-19.31.56:148][625]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.30-19.31.56:304][625]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.01.30-19.31.57:069][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.01.30-19.31.57:254][663]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap5B72EF78411690A4ABAF04A0757C0169.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.31.57:262][663]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.214
+[2021.01.30-19.31.57:276][663]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-19.31.57:276][663]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.32.39:882][ 11]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.30-19.32.39:908][ 11]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.01.30-19.32.42:757][ 11]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.849 s
+[2021.01.30-19.32.42:758][ 11]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.30-19.32.42:758][ 11]LogOutputDevice: Error: 
+[2021.01.30-19.32.42:758][ 11]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 1222]
+[2021.01.30-19.32.42:758][ 11]LogOutputDevice: Error: 
+[2021.01.30-19.32.42:758][ 11]LogOutputDevice: Error: Stack: 
+[2021.01.30-19.32.42:758][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffef4b9ff29 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.30-19.32.42:758][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffef34bf466 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.30-19.32.42:758][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffeee63143a UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.30-19.32.42:758][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffeee5d5eaf UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.30-19.32.42:758][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffeee5d5bf1 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.30-19.32.42:758][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffef0ce598e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.30-19.32.42:759][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffeee6dff6c UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.30-19.32.42:759][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffeee6fd586 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.30-19.32.42:759][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffef2110098 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-19.32.42:759][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffef21ff3a2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-19.32.42:759][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffef21dbd67 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-19.32.42:759][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffef22785fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-19.32.42:759][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffef229077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-19.32.42:759][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffef20d46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-19.32.42:759][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffef2157f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-19.32.42:759][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffef2140367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-19.32.42:759][ 11]LogOutputDevice: Error: [Callstack] 0x00007ffef2133642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-19.32.42:759][ 11]LogOutputDevice: Error: [Callstack] 0x00007fff6754bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: [Callstack] 0x00007fff67539197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: [Callstack] 0x00007fff6754e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: [Callstack] 0x00007fff67534310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: [Callstack] 0x00007fff78e8e858 USER32.dll!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: [Callstack] 0x00007fff78e8e299 USER32.dll!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: [Callstack] 0x00007fff6754f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: [Callstack] 0x00007ff669fb87e7 UE4Editor.exe!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: [Callstack] 0x00007ff669fd113c UE4Editor.exe!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: [Callstack] 0x00007ff669fd121a UE4Editor.exe!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: [Callstack] 0x00007ff669fe527d UE4Editor.exe!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: [Callstack] 0x00007ff669fe7faa UE4Editor.exe!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: [Callstack] 0x00007fff79207034 KERNEL32.DLL!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: [Callstack] 0x00007fff794fd0d1 ntdll.dll!UnknownFunction []
+[2021.01.30-19.32.42:760][ 11]LogOutputDevice: Error: 
+[2021.01.30-19.32.42:767][ 11]LogStats:                SubmitErrorReport -  0.000 s
+[2021.01.30-19.33.01:517][ 11]LogStats:                    SendNewReport - 18.751 s
+[2021.01.30-19.33.01:518][ 11]LogStats:             FDebug::EnsureFailed - 21.610 s
+[2021.01.30-19.33.01:555][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.01.30-19.33.01:560][ 11]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.30-19.33.01:599][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.01.30-19.33.03:528][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.30-19.33.03:569][122]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap33CE3CA34A604E1EA2C5E499E64E623A.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.33.03:577][122]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.069
+[2021.01.30-19.33.03:589][122]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-19.33.03:589][122]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.33.24:413][326]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.30-19.33.24:446][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.01.30-19.33.25:054][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.01.30-19.33.25:085][360]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap22B6856841BAC17611538FA7A9CAAB8F.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.33.25:093][360]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.059
+[2021.01.30-19.33.25:104][360]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-19.33.25:105][360]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.34.27:037][451]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2021.01.30-19.34.27:046][451]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2021.01.30-19.34.27:049][451]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.34.27:049][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.34.30:019][606]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Music/Suspense_music_A.Suspense_music_A
+[2021.01.30-19.34.42:093][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Music/Suspense_music_A" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Music/Suspense_music_A.uasset" SILENT=true
+[2021.01.30-19.34.42:107][298]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Suspense_music_A5498ECA442DF1796AF233888A3974BF5.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Music/Suspense_music_A.uasset'
+[2021.01.30-19.34.42:120][298]AssetCheck: New page: Asset Save: Suspense_music_A
+[2021.01.30-19.34.42:120][298]LogContentValidation: Display: Validating SoundWave /Game/Music/Suspense_music_A.Suspense_music_A
+[2021.01.30-19.34.43:243][363]LogSlate: Window 'Suspense_music_A' being destroyed
+[2021.01.30-19.34.43:247][363]LogSlate: Window 'Suspense_music_A' being destroyed
+[2021.01.30-19.34.44:859][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.01.30-19.34.45:625][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.01.30-19.34.47:082][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.01.30-19.34.47:114][585]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMapAA222D924839B07358B9FAACA8344B65.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.34.48:800][585]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_BuiltDataE1AEABA742B161F02341FF91690FD942.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.30-19.34.48:817][585]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-19.34.48:817][585]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.30-19.34.48:818][585]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
