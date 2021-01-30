@@ -1262,3 +1262,41 @@ Script Stack (0 frames):
 [2021.01.30-19.34.48:817][585]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.30-19.34.48:817][585]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.01.30-19.34.48:818][585]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.37.36:644][668]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2021.01.30-19.38.00:569][996]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.30-19.38.00:604][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.01.30-19.38.01:241][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.01.30-19.38.01:274][ 32]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMapCE09E0D84E9FD85D8906A9A3720C4301.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.38.01:283][ 32]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.063
+[2021.01.30-19.38.01:295][ 32]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-19.38.01:295][ 32]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.38.09:306][509]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.30-19.38.09:352][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.01.30-19.38.10:128][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.01.30-19.38.10:160][553]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMapEF1F21AE446E9AF4AD7F17BF13B82A55.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.38.10:167][553]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.059
+[2021.01.30-19.38.10:178][553]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-19.38.10:178][553]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.38.40:836][306]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.30-19.38.41:089][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.01.30-19.38.41:601][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.01.30-19.38.41:747][324]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap0E2F603E49360E5E483271BDC50D7348.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.38.41:755][324]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.189
+[2021.01.30-19.38.41:769][324]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-19.38.41:769][324]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.39.10:827][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.01.30-19.39.10:863][  5]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap8EE57C0E465636B07F1314A6491F28A6.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.39.10:870][  5]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.088
+[2021.01.30-19.39.10:883][  5]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-19.39.10:883][  5]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-19.39.17:382][161]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2021.01.30-19.39.17:389][161]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2021.01.30-19.39.17:393][161]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-19.39.17:393][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-19.39.19:224][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.01.30-19.39.21:321][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.01.30-19.39.21:354][387]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMapAF92D8C240234E06E1867A90B963F1C2.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-19.39.23:071][387]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_BuiltDataB7DA1DF64E250970DC839D82A6997DDB.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.30-19.39.23:093][387]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-19.39.23:093][387]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.30-19.39.23:093][387]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
