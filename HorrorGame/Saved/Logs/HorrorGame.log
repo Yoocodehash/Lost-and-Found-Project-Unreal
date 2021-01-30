@@ -958,3 +958,126 @@ LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9.
 [2021.01.30-18.22.12:913][689]LogSlate: Window 'Packages Failed To Save' being destroyed
 [2021.01.30-18.22.12:930][689]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
 /Game/Flashlight/None
+[2021.01.30-18.28.35:814][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.30-18.28.46:879][152]LogMaterial: Display: Missing cached shader map for material BrushDecal_MasterMaterial, compiling. 
+[2021.01.30-18.28.47:064][152]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 61
+[2021.01.30-18.28.47:064][152]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 53
+[2021.01.30-18.28.47:064][152]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 45
+[2021.01.30-18.28.47:064][152]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 37
+[2021.01.30-18.28.47:064][152]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2021.01.30-18.28.47:065][152]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.01.30-18.28.47:065][152]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.01.30-18.28.47:065][152]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.01.30-18.29.38:789][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.01.30-18.29.38:852][770]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_Auto13ED5508C4F93BA67055B27AFE0A7565A.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2021.01.30-18.29.38:855][770]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.079
+[2021.01.30-18.29.38:855][770]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2021.01.30-18.29.51:344][317]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/osama/Downloads/horror.jpg)
+[2021.01.30-18.29.51:490][317]LogTexture: Display: Building textures: horror (AutoDXT, 1920X1080)
+[2021.01.30-18.29.54:646][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.30-18.30.09:022][223]Cmd: TRANSACTION UNDO
+[2021.01.30-18.30.09:022][223]LogEditorTransaction: Undo Replace component used material
+[2021.01.30-18.30.13:602][471]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/horror.horror
+[2021.01.30-18.30.13:853][471]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2021.01.30-18.30.19:294][777]LogSlate: Window 'horror' being destroyed
+[2021.01.30-18.30.19:304][777]LogSlate: Window 'horror' being destroyed
+[2021.01.30-18.30.29:618][368]LogMaterial: Display: Missing cached shader map for material horror_Mat, compiling. 
+[2021.01.30-18.30.29:631][369]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.01.30-18.30.29:631][369]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.30-18.30.29:631][369]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.30-18.30.29:631][369]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.30-18.30.29:631][369]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.30-18.30.29:631][369]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.30-18.30.46:196][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.01.30-18.30.51:899][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.01.30-18.30.57:918][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2021.01.30-18.31.05:304][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2021.01.30-18.31.10:055][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2021.01.30-18.31.16:725][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2021.01.30-18.31.26:146][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.01.30-18.31.28:421][716]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-18.31.28:501][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.01.30-18.31.28:527][716]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap37BA00394A0B84E1621379820243AD8F.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-18.31.28:533][716]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.044
+[2021.01.30-18.31.28:536][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/horror" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Textures/horror.uasset" SILENT=true
+[2021.01.30-18.31.28:664][716]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/horror84644EA64A0E1EE7145277B5327AD2C0.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Textures/horror.uasset'
+[2021.01.30-18.31.28:673][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/horror_Mat" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Textures/horror_Mat.uasset" SILENT=true
+[2021.01.30-18.31.28:690][716]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/horror_Mat5CB94C214DABA349B9A9B78EABEB418D.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Textures/horror_Mat.uasset'
+[2021.01.30-18.31.30:559][716]LogSlate: Window 'Message' being destroyed
+[2021.01.30-18.31.30:573][716]Message dialog closed, result: Ok, title: Message, text: A file/folder may not match any of the following : 
+CON, PRN, AUX, CLOCK$, NUL, NONE, 
+COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9, 
+LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9.
+[2021.01.30-18.31.30:601][716]LogFileHelpers: Warning: The following assets are writable on disk but not checked out from source control:
+/Game/Flashlight/None
+[2021.01.30-18.31.32:399][716]LogSlate: Window 'Writable Assets Not Checked Out' being destroyed
+[2021.01.30-18.31.33:697][716]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2021.01.30-18.31.33:716][716]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Flashlight/None
+[2021.01.30-18.31.33:723][716]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-18.31.33:723][716]LogContentValidation: Display: Validating Material /Game/Textures/horror_Mat.horror_Mat
+[2021.01.30-18.31.33:723][716]LogContentValidation: Display: Validating Texture2D /Game/Textures/horror.horror
+[2021.01.30-18.31.33:724][716]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-18.31.37:472][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.30-18.31.38:902][938]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-18.31.39:869][993]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Flashlight/None.Material_0
+[2021.01.30-18.31.39:943][993]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0004 seconds. Added 3 classes and 0 folders.
+[2021.01.30-18.31.39:966][993]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.01.30-18.31.40:406][993]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.01.30-18.31.40:423][993]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.30-18.31.40:423][993]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.30-18.31.40:423][993]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.30-18.31.40:423][993]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.30-18.31.40:423][993]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.30-18.31.40:423][993]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.30-18.31.40:423][993]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.30-18.31.40:423][993]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.30-18.31.40:423][993]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.30-18.31.40:481][993]LogSlate: Took 0.011302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.30-18.31.41:213][  9]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.30-18.31.41:267][ 11]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.30-18.31.41:786][ 31]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.01.30-18.31.41:812][ 32]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.01.30-18.31.41:868][ 34]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.30-18.31.42:037][ 42]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.01.30-18.31.42:037][ 42]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.01.30-18.31.42:037][ 42]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.30-18.31.42:037][ 42]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.30-18.31.47:486][368]LogMaterialEditor: Saving and Compiling material Material_0
+[2021.01.30-18.32.05:807][368]LogSlate: Window 'Message' being destroyed
+[2021.01.30-18.32.05:812][368]Message dialog closed, result: Ok, title: Message, text: A file/folder may not match any of the following : 
+CON, PRN, AUX, CLOCK$, NUL, NONE, 
+COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9, 
+LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9.
+[2021.01.30-18.32.05:820][368]LogFileHelpers: Warning: The following assets are writable on disk but not checked out from source control:
+/Game/Flashlight/None
+[2021.01.30-18.32.08:468][368]LogSlate: Window 'Writable Assets Not Checked Out' being destroyed
+[2021.01.30-18.32.09:729][368]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2021.01.30-18.32.09:738][368]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Flashlight/None
+[2021.01.30-18.32.11:181][448]LogSlate: Window 'Material_0' being destroyed
+[2021.01.30-18.32.11:188][448]LogSlate: Window 'Material_0' being destroyed
+[2021.01.30-18.32.11:218][448]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.32.11:218][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.32.20:450][992]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Flashlight/Flashlight.Flashlight
+[2021.01.30-18.32.34:510][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flashlight/Flashlight" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Flashlight/Flashlight.uasset" SILENT=true
+[2021.01.30-18.32.34:531][719]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FlashlightD11CC2CC4FC10916E4C0AD967511DCFF.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Flashlight/Flashlight.uasset'
+[2021.01.30-18.32.34:561][719]AssetCheck: New page: Asset Save: Flashlight
+[2021.01.30-18.32.34:561][719]LogContentValidation: Display: Validating StaticMesh /Game/Flashlight/Flashlight.Flashlight
+[2021.01.30-18.32.35:302][763]LogSlate: Window 'Flashlight' being destroyed
+[2021.01.30-18.32.35:313][763]LogSlate: Window 'Flashlight' being destroyed
+[2021.01.30-18.32.35:320][763]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.32.35:320][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.32.36:361][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.30-18.32.38:637][822]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-18.32.39:562][822]LogSlate: Window 'Message' being destroyed
+[2021.01.30-18.32.39:572][822]Message dialog closed, result: Ok, title: Message, text: A file/folder may not match any of the following : 
+CON, PRN, AUX, CLOCK$, NUL, NONE, 
+COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9, 
+LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9.
+[2021.01.30-18.32.39:582][822]LogFileHelpers: Warning: The following assets are writable on disk but not checked out from source control:
+/Game/Flashlight/None
+[2021.01.30-18.32.40:462][822]LogSlate: Window 'Writable Assets Not Checked Out' being destroyed
+[2021.01.30-18.32.41:969][822]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2021.01.30-18.32.41:985][822]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Flashlight/None
