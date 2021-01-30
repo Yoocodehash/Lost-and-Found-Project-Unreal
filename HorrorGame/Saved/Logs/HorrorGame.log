@@ -1147,3 +1147,36 @@ LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9.
 [2021.01.30-18.37.51:777][344]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Flashlight750AE9E04F7FD68B561E57916A659D94.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Flashlight/Flashlight.uasset'
 [2021.01.30-18.37.51:793][344]AssetCheck: New page: Asset Save: Flashlight
 [2021.01.30-18.37.51:793][344]LogContentValidation: Display: Validating StaticMesh /Game/Flashlight/Flashlight.Flashlight
+[2021.01.30-18.40.29:288][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.30-18.40.30:227][252]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2021.01.30-18.40.33:554][444]Cmd: DELETE
+[2021.01.30-18.40.33:554][444]Cmd: ACTOR DELETE
+[2021.01.30-18.40.33:741][444]LogEditorActor: Deleted Actor: TextRenderActor
+[2021.01.30-18.40.33:760][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.01.30-18.40.33:766][444]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.01.30-18.40.37:586][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.01.30-18.40.40:973][873]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.30-18.40.42:907][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.01.30-18.40.49:169][359]Cmd: TRANSACTION UNDO
+[2021.01.30-18.40.49:169][359]LogEditorTransaction: Undo Move Actors
+[2021.01.30-18.41.15:818][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2021.01.30-18.41.22:004][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.01.30-18.41.23:985][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2021.01.30-18.41.29:678][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.01.30-18.41.37:493][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2021.01.30-18.41.53:206][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.30-18.41.54:785][124]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-18.41.54:847][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.01.30-18.41.54:870][124]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMapC2F1BCA541F226E7CF0DA08BDFDD8713.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-18.41.54:874][124]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.033
+[2021.01.30-18.41.54:885][124]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-18.41.54:885][124]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-18.41.56:290][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.30-18.42.23:735][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.30-18.42.25:372][839]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-18.42.25:449][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.01.30-18.42.25:487][839]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap0A59827E4A76A66814C51B98354254C1.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-18.42.25:491][839]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.053
+[2021.01.30-18.42.25:498][839]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-18.42.25:498][839]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-18.42.48:953][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
