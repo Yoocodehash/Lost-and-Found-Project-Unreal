@@ -1081,3 +1081,69 @@ LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9.
 [2021.01.30-18.32.41:969][822]LogSlate: Window 'Packages Failed To Save' being destroyed
 [2021.01.30-18.32.41:985][822]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
 /Game/Flashlight/None
+[2021.01.30-18.35.27:240][ 46]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/osama/Downloads/Wooden Door/10057_wooden_door_v3_L3.123c1d67cf02-d520-4cbb-bc8d-b74529055cdd/10057_wooden_door_v3_iterations-2.obj)
+[2021.01.30-18.35.27:246][ 46]LogFbx: Loading FBX Scene from C:/Users/osama/Downloads/Wooden Door/10057_wooden_door_v3_L3.123c1d67cf02-d520-4cbb-bc8d-b74529055cdd/10057_wooden_door_v3_iterations-2.obj
+[2021.01.30-18.35.27:279][ 46]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.30-18.35.28:839][ 46]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.30-18.35.29:078][ 46]LogTexture: Display: Building textures: 10057_wooden_door_v1_diffuse (AutoDXT, 1024X1024)
+[2021.01.30-18.35.29:241][ 46]LogMaterial: Display: Missing cached shader map for material orig_orig_orig_orig_orig_orig_orig_10057_wooden_door_v1, compiling. 
+[2021.01.30-18.35.29:247][ 46]LogFbx: Display: Triangulating static mesh 10057_wooden_door_frame_v1
+[2021.01.30-18.35.29:269][ 46]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.01.30-18.35.29:269][ 46]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.30-18.35.29:270][ 46]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.30-18.35.29:270][ 46]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.30-18.35.29:270][ 46]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.30-18.35.29:270][ 46]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.30-18.35.29:270][ 46]LogStaticMesh: Building static mesh 10057_wooden_door_v3_iterations-2_10057_wooden_door_frame_v1...
+[2021.01.30-18.35.29:291][ 46]LogStaticMesh: Built static mesh [0.02s] /Game/Doors/10057_wooden_door_v3_iterations-2_10057_wooden_door_frame_v1.10057_wooden_door_v3_iterations-2_10057_wooden_door_frame_v1
+[2021.01.30-18.35.29:299][ 46]LogFbx: Display: Triangulating static mesh 10057_wooden_door_v1
+[2021.01.30-18.35.29:425][ 46]LogStaticMesh: Building static mesh 10057_wooden_door_v3_iterations-2_10057_wooden_door_v1...
+[2021.01.30-18.35.29:480][ 46]LogStaticMesh: Built static mesh [0.05s] /Game/Doors/10057_wooden_door_v3_iterations-2_10057_wooden_door_v1.10057_wooden_door_v3_iterations-2_10057_wooden_door_v1
+[2021.01.30-18.35.35:983][403]LogActorFactory: Actor Factory created 10057_wooden_door_v3_iterations-2_10057_wooden_door_v1
+[2021.01.30-18.35.35:985][403]LogActorFactory: Actor Factory created 10057_wooden_door_v3_iterations-2_10057_wooden_door_frame_v1
+[2021.01.30-18.35.39:923][617]LogActorFactory: Actor Factory created 10057_wooden_door_v3_iterations-2_10057_wooden_door_v1
+[2021.01.30-18.35.39:938][617]LogActorFactory: Actor Factory created 10057_wooden_door_v3_iterations-2_10057_wooden_door_frame_v1
+[2021.01.30-18.36.09:318][262]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.01.30-18.37.07:791][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.01.30-18.37.10:685][747]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-18.37.10:787][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/10057_wooden_door_v1_diffuse" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Doors/10057_wooden_door_v1_diffuse.uasset" SILENT=true
+[2021.01.30-18.37.10:876][747]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/10057_wooden_door_v1_diffuseF51924614D5854928047FE992B3527CE.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Doors/10057_wooden_door_v1_diffuse.uasset'
+[2021.01.30-18.37.10:909][747]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/10057_wooden_door_v3_iterations-EA1333684DD38C6DA2B87AA579751891.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Doors/10057_wooden_door_v3_iterations-2_10057_wooden_door_frame_v1.uasset'
+[2021.01.30-18.37.11:000][747]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/10057_wooden_door_v3_iterations-999E817C4E8CAFC1BB9897BA6B0B8558.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Doors/10057_wooden_door_v3_iterations-2_10057_wooden_door_v1.uasset'
+[2021.01.30-18.37.11:021][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.01.30-18.37.11:073][747]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap525732BC4DD06BA5E5A1DE869CB3281C.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-18.37.11:083][747]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.080
+[2021.01.30-18.37.12:774][747]LogSlate: Window 'Message' being destroyed
+[2021.01.30-18.37.12:789][747]Message dialog closed, result: Ok, title: Message, text: A file/folder may not match any of the following : 
+CON, PRN, AUX, CLOCK$, NUL, NONE, 
+COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9, 
+LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9.
+[2021.01.30-18.37.12:843][747]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/orig_orig_orig_orig_orig_orig_orEFB5CB6E4C6A23F6AA56EBB7D998431E.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Doors/orig_orig_orig_orig_orig_orig_orig_10057_wooden_door_v1.uasset'
+[2021.01.30-18.37.12:856][747]LogFileHelpers: Warning: The following assets are writable on disk but not checked out from source control:
+/Game/Flashlight/None
+[2021.01.30-18.37.13:905][747]LogSlate: Window 'Writable Assets Not Checked Out' being destroyed
+[2021.01.30-18.37.15:212][747]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2021.01.30-18.37.15:216][747]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Flashlight/None
+[2021.01.30-18.37.15:219][747]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-18.37.15:219][747]LogContentValidation: Display: Validating StaticMesh /Game/Doors/10057_wooden_door_v3_iterations-2_10057_wooden_door_v1.10057_wooden_door_v3_iterations-2_10057_wooden_door_v1
+[2021.01.30-18.37.15:219][747]LogContentValidation: Display: Validating Texture2D /Game/Doors/10057_wooden_door_v1_diffuse.10057_wooden_door_v1_diffuse
+[2021.01.30-18.37.15:219][747]LogContentValidation: Display: Validating Material /Game/Doors/orig_orig_orig_orig_orig_orig_orig_10057_wooden_door_v1.orig_orig_orig_orig_orig_orig_orig_10057_wooden_door_v1
+[2021.01.30-18.37.15:219][747]LogContentValidation: Display: Validating StaticMesh /Game/Doors/10057_wooden_door_v3_iterations-2_10057_wooden_door_frame_v1.10057_wooden_door_v3_iterations-2_10057_wooden_door_frame_v1
+[2021.01.30-18.37.15:219][747]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-18.37.20:322][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.01.30-18.37.41:750][ 41]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-18.37.41:790][ 41]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Flashlight/None.Material_0
+[2021.01.30-18.37.44:208][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.01.30-18.37.45:559][110]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Flashlight/Flashlight.Flashlight
+[2021.01.30-18.37.48:662][258]LogSlate: Window 'Flashlight' being destroyed
+[2021.01.30-18.37.48:675][258]LogSlate: Window 'Flashlight' being destroyed
+[2021.01.30-18.37.48:680][258]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.37.48:680][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.37.50:161][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.30-18.37.51:674][344]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-18.37.51:756][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flashlight/Flashlight" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Flashlight/Flashlight.uasset" SILENT=true
+[2021.01.30-18.37.51:777][344]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Flashlight750AE9E04F7FD68B561E57916A659D94.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Flashlight/Flashlight.uasset'
+[2021.01.30-18.37.51:793][344]AssetCheck: New page: Asset Save: Flashlight
+[2021.01.30-18.37.51:793][344]LogContentValidation: Display: Validating StaticMesh /Game/Flashlight/Flashlight.Flashlight
