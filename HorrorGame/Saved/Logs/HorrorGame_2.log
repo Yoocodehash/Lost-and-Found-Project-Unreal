@@ -2584,3 +2584,224 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.01.30-17.24.17:103][500]LogDirectoryWatcher: A directory notification failed for 'D:/Lost-and-Found-Project-Unreal/HorrorGame/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2021.01.30-17.24.17:103][500]LogDirectoryWatcher: A directory notification failed for 'D:/Lost-and-Found-Project-Unreal/HorrorGame/Content/Developers/osama/Collections/' because it could not be accessed. Aborting watch request...
 [2021.01.30-17.24.17:442][501]LogDirectoryWatcher: A directory notification failed for 'D:/Lost-and-Found-Project-Unreal/HorrorGame/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.01.30-17.49.07:353][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.01.30-17.49.09:203][479]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-17.49.09:322][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.30-17.49.09:455][479]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMapC839351C4917D8A4602B929DE5E0C47C.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.30-17.49.09:514][479]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.231
+[2021.01.30-17.49.09:748][479]LogSlate: Window 'HorrorGame - Unreal Editor' being destroyed
+[2021.01.30-17.49.10:123][479]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.30-17.49.10:123][479]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.30-17.49.10:125][480]Cmd: QUIT_EDITOR
+[2021.01.30-17.49.10:125][480]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.01.30-17.49.10:185][480]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.01.30-17.49.10:317][480]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.01.30-17.49.10:317][480]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.01.30-17.49.10:319][480]LogAudio: Display: Audio Device unregistered from world 'FirstPersonExampleMap'.
+[2021.01.30-17.49.10:402][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-17.49.10:409][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-17.49.10:585][480]LogAudio: Display: Audio Device Manager Shutdown
+[2021.01.30-17.49.10:600][480]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.30-17.49.10:645][480]LogExit: Preparing to exit.
+[2021.01.30-17.49.11:159][480]LogDeviceProfile: Device profile begin destroy: [000002CE0942A200] Windows
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE0942A300] Default__DeviceProfile
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BD900] WindowsNoEditor
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE0942AF00] WindowsServer
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BE400] WindowsClient
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE09429000] IOS
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BF700] iPadAir
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE09429400] iPadAir2
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936DB00] IPadPro
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936DC00] iPadAir3
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BC400] iPadAir4
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936F400] iPadMini2
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BCD00] iPadMini3
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936D500] iPadMini4
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BC300] iPadMini5
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A5200] iPhone6
+[2021.01.30-17.49.11:160][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A5300] iPodTouch6
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936C900] iPhone7
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936D000] iPodTouch7
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A6A00] iPhone5S
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936E800] iPhone6Plus
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A7A00] iPhone6S
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936F200] iPhone6SPlus
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A4700] iPhone7Plus
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936E900] iPhoneSE
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A6500] iPhone8
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936C500] iPhone8Plus
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A7C00] iPhoneX
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936CB00] iPhoneXS
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A5F00] iPhoneXSMax
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936FC00] iPhoneXR
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A4B00] iPhone11
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936EE00] iPhone11Pro
+[2021.01.30-17.49.11:161][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A7600] iPhone11ProMax
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936D400] iPhoneSE2
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A4A00] iPhone12Mini
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936CC00] iPhone12
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A6800] iPhone12Pro
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE09428800] iPhone12ProMax
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A5400] iPadPro105
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE0942AE00] iPadPro129
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A6600] iPadPro97
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE0942A700] iPadPro2_129
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A4E00] iPad5
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE09428500] iPad6
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A6000] iPad7
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE09428600] iPad8
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A6C00] iPadPro11
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE09428900] iPadPro2_11
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A4C00] iPadPro3_129
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE09428400] iPadPro4_129
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A4900] AppleTV
+[2021.01.30-17.49.11:162][480]LogDeviceProfile: Device profile begin destroy: [000002CE09429600] AppleTV4K
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A4300] TVOS
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE09428300] Mac
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A6D00] MacClient
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE09429500] MacNoEditor
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A7800] MacServer
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE09429300] Linux
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A6100] LinuxNoEditor
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE0942A600] LinuxAArch64NoEditor
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A7400] LinuxClient
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE0942A000] LinuxAArch64Client
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A7100] LinuxServer
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE09428E00] LinuxAArch64Server
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A7500] Android
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE09428C00] Android_Low
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A6200] Android_Mid
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE09429B00] Android_High
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A7B00] Android_Default
+[2021.01.30-17.49.11:163][480]LogDeviceProfile: Device profile begin destroy: [000002CE0942A400] Android_Adreno4xx
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A7000] Android_Adreno5xx_Low
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE0942AD00] Android_Adreno5xx
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE093A5800] Android_Adreno6xx
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE09429800] Android_Adreno6xx_Vulkan
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BE800] Android_Mali_T6xx
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936D700] Android_Mali_T7xx
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BE300] Android_Mali_T8xx
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936DD00] Android_Mali_G71
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BD400] Android_Mali_G72
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936C600] Android_Mali_G72_Vulkan
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BFB00] Android_Mali_G76
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936EC00] Android_Mali_G76_Vulkan
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BFE00] Android_Mali_G77
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936D300] Android_Mali_G77_Vulkan
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BDE00] Android_Vulkan_SM5
+[2021.01.30-17.49.11:164][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936E600] Android_PowerVR_G6xxx
+[2021.01.30-17.49.11:165][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BC600] Android_PowerVR_GT7xxx
+[2021.01.30-17.49.11:165][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936D200] Android_PowerVR_GE8xxx
+[2021.01.30-17.49.11:165][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BD600] Android_PowerVR_GM9xxx
+[2021.01.30-17.49.11:165][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936CF00] Android_PowerVR_GM9xxx_Vulkan
+[2021.01.30-17.49.11:165][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BC200] Android_TegraK1
+[2021.01.30-17.49.11:165][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936CA00] Android_Unknown_Vulkan
+[2021.01.30-17.49.11:165][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BF800] Lumin
+[2021.01.30-17.49.11:165][480]LogDeviceProfile: Device profile begin destroy: [000002CE0936F500] Lumin_Desktop
+[2021.01.30-17.49.11:165][480]LogDeviceProfile: Device profile begin destroy: [000002CE093BE600] HoloLens
+[2021.01.30-17.49.11:741][480]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-17.49.11:744][480]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-17.49.11:747][480]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-17.49.11:749][480]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-17.49.12:138][480]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.01.30-17.49.12:501][480]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-17.49.12:538][480]LogExit: Editor shut down
+[2021.01.30-17.49.12:543][480]LogExit: Transaction tracking system shut down
+[2021.01.30-17.49.15:354][480]LogExit: Object subsystem successfully closed.
+[2021.01.30-17.49.15:631][480]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.01.30-17.49.17:356][480]LogModuleManager: Shutting down and abandoning module BlueprintGraph (826)
+[2021.01.30-17.49.17:356][480]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (824)
+[2021.01.30-17.49.17:356][480]LogModuleManager: Shutting down and abandoning module SceneOutliner (822)
+[2021.01.30-17.49.17:356][480]LogModuleManager: Shutting down and abandoning module AddContentDialog (820)
+[2021.01.30-17.49.17:365][480]LogModuleManager: Shutting down and abandoning module WidgetCarousel (819)
+[2021.01.30-17.49.17:365][480]LogModuleManager: Shutting down and abandoning module EditorWidgets (816)
+[2021.01.30-17.49.17:365][480]LogModuleManager: Shutting down and abandoning module StatsViewer (814)
+[2021.01.30-17.49.17:382][480]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (812)
+[2021.01.30-17.49.17:397][480]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (810)
+[2021.01.30-17.49.17:414][480]LogModuleManager: Shutting down and abandoning module AutomationWorker (808)
+[2021.01.30-17.49.17:414][480]LogModuleManager: Shutting down and abandoning module SteamVREditor (806)
+[2021.01.30-17.49.17:426][480]LogModuleManager: Shutting down and abandoning module OculusMR (804)
+[2021.01.30-17.49.17:426][480]LogModuleManager: Shutting down and abandoning module GooglePADEditor (802)
+[2021.01.30-17.49.17:426][480]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (800)
+[2021.01.30-17.49.17:433][480]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (798)
+[2021.01.30-17.49.17:500][480]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (796)
+[2021.01.30-17.49.17:560][480]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (794)
+[2021.01.30-17.49.17:578][480]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (792)
+[2021.01.30-17.49.17:587][480]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (790)
+[2021.01.30-17.49.17:587][480]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (788)
+[2021.01.30-17.49.17:587][480]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (786)
+[2021.01.30-17.49.17:587][480]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (784)
+[2021.01.30-17.49.17:587][480]LogModuleManager: Shutting down and abandoning module WebMMedia (782)
+[2021.01.30-17.49.17:603][480]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (780)
+[2021.01.30-17.49.17:629][480]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (778)
+[2021.01.30-17.49.17:629][480]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (776)
+[2021.01.30-17.49.17:629][480]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (774)
+[2021.01.30-17.49.17:629][480]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (772)
+[2021.01.30-17.49.17:639][480]LogModuleManager: Shutting down and abandoning module SequenceRecorder (771)
+[2021.01.30-17.49.17:641][480]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (768)
+[2021.01.30-17.49.17:641][480]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (766)
+[2021.01.30-17.49.17:641][480]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (764)
+[2021.01.30-17.49.17:641][480]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (762)
+[2021.01.30-17.49.17:641][480]LogModuleManager: Shutting down and abandoning module WaterEditor (760)
+[2021.01.30-17.49.17:641][480]LogModuleManager: Shutting down and abandoning module PlanarCut (758)
+[2021.01.30-17.49.17:651][480]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (756)
+[2021.01.30-17.49.17:652][480]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (754)
+[2021.01.30-17.49.17:652][480]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (752)
+[2021.01.30-17.49.17:652][480]LogModuleManager: Shutting down and abandoning module CharacterAI (750)
+[2021.01.30-17.49.17:652][480]LogModuleManager: Shutting down and abandoning module TextureAlignMode (748)
+[2021.01.30-17.49.17:652][480]LogModuleManager: Shutting down and abandoning module BspMode (746)
+[2021.01.30-17.49.17:652][480]LogModuleManager: Shutting down and abandoning module GeometryMode (744)
+[2021.01.30-17.49.17:658][480]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (742)
+[2021.01.30-17.49.17:673][480]LogModuleManager: Shutting down and abandoning module SmartSnapping (740)
+[2021.01.30-17.49.17:673][480]LogModuleManager: Shutting down and abandoning module SessionServices (738)
+[2021.01.30-17.49.17:673][480]LogModuleManager: Shutting down and abandoning module MeshPaint (736)
+[2021.01.30-17.49.17:693][480]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (734)
+[2021.01.30-17.49.17:694][480]LogModuleManager: Shutting down and abandoning module FoliageEdit (732)
+[2021.01.30-17.49.17:725][480]LogModuleManager: Shutting down and abandoning module LandscapeEditor (730)
+[2021.01.30-17.49.17:806][480]LogModuleManager: Shutting down and abandoning module MeshPaintMode (728)
+[2021.01.30-17.49.17:806][480]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (726)
+[2021.01.30-17.49.17:806][480]LogModuleManager: Shutting down and abandoning module ActorPickerMode (724)
+[2021.01.30-17.49.17:806][480]LogModuleManager: Shutting down and abandoning module PlacementMode (722)
+[2021.01.30-17.49.17:806][480]LogModuleManager: Shutting down and abandoning module ViewportSnapping (720)
+[2021.01.30-17.49.17:806][480]LogModuleManager: Shutting down and abandoning module ViewportInteraction (718)
+[2021.01.30-17.49.17:806][480]LogModuleManager: Shutting down and abandoning module ClothPainter (716)
+[2021.01.30-17.49.17:832][480]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (715)
+[2021.01.30-17.49.17:847][480]LogModuleManager: Shutting down and abandoning module LogVisualizer (712)
+[2021.01.30-17.49.17:868][480]LogModuleManager: Shutting down and abandoning module IntroTutorials (710)
+[2021.01.30-17.49.17:893][480]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (709)
+[2021.01.30-17.49.17:912][480]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (706)
+[2021.01.30-17.49.17:912][480]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (704)
+[2021.01.30-17.49.17:925][480]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (702)
+[2021.01.30-17.49.17:938][480]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (701)
+[2021.01.30-17.49.18:339][480]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (698)
+[2021.01.30-17.49.18:339][480]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (696)
+[2021.01.30-17.49.18:339][480]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (694)
+[2021.01.30-17.49.18:340][480]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (692)
+[2021.01.30-17.49.18:340][480]LogModuleManager: Shutting down and abandoning module TraceInsights (690)
+[2021.01.30-17.49.18:376][480]MemoryProfiler: Shutdown
+[2021.01.30-17.49.18:376][480]NetworkingProfiler: Shutdown
+[2021.01.30-17.49.18:376][480]LoadingProfiler: Shutdown
+[2021.01.30-17.49.18:382][480]TimingProfiler: Shutdown
+[2021.01.30-17.49.18:398][480]LogModuleManager: Shutting down and abandoning module TraceServices (689)
+[2021.01.30-17.49.18:415][480]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (686)
+[2021.01.30-17.49.18:415][480]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (684)
+[2021.01.30-17.49.18:415][480]LogModuleManager: Shutting down and abandoning module InputBindingEditor (682)
+[2021.01.30-17.49.18:424][480]LogModuleManager: Shutting down and abandoning module MergeActors (680)
+[2021.01.30-17.49.18:436][480]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (678)
+[2021.01.30-17.49.18:477][480]LogModuleManager: Shutting down and abandoning module LocalizationService (677)
+[2021.01.30-17.49.18:488][480]LogModuleManager: Shutting down and abandoning module HardwareTargeting (674)
+[2021.01.30-17.49.18:488][480]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (672)
+[2021.01.30-17.49.18:501][480]LogModuleManager: Shutting down and abandoning module UndoHistory (670)
+[2021.01.30-17.49.18:510][480]LogModuleManager: Shutting down and abandoning module XmlParser (668)
+[2021.01.30-17.49.18:516][480]LogModuleManager: Shutting down and abandoning module Blutility (666)
+[2021.01.30-17.49.18:516][480]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (664)
+[2021.01.30-17.49.18:516][480]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (663)
+[2021.01.30-17.49.18:518][480]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (660)
+[2021.01.30-17.49.18:518][480]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (659)
+[2021.01.30-17.49.18:532][480]LogModuleManager: Shutting down and abandoning module SettingsEditor (656)
+[2021.01.30-17.49.18:540][480]LogModuleManager: Shutting down and abandoning module ProjectLauncher (654)
+[2021.01.30-17.49.18:552][480]LogModuleManager: Shutting down and abandoning module SessionFrontend (652)
+[2021.01.30-17.49.18:558][480]LogModuleManager: Shutting down and abandoning module ProfilerClient (650)
+[2021.01.30-17.49.18:572][480]LogModuleManager: Shutting down and abandoning module DeviceManager (648)
+[2021.01.30-17.49.18:579][480]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (647)
+[2021.01.30-17.49.18:632][480]LogModuleManager: Shutting down and abandoning module AutomationController (644)
