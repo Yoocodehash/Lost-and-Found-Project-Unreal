@@ -882,3 +882,736 @@ Script call stack:
 [2021.01.31-19.13.34:490][547]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.31-19.13.34:490][547]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.01.31-19.13.34:490][547]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.31-19.15.52:459][644]LogSlate: Window 'Select Path' being destroyed
+[2021.01.31-19.15.53:728][644]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.01.31-19.15.53:806][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.01.31-19.15.53:852][644]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.15.54:354][645]LogRenderer: Reallocating scene render targets to support 1040x520 Format 10 NumSamples 1 (Frame:1).
+[2021.01.31-19.16.59:690][477]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.16.59:799][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.01.31-19.17.00:304][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.17.00:313][503]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint10C7A07F4D0A5AA7F9593EB52460BBEC.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.17.00:330][503]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.17.00:330][503]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.17.48:238][105]LogEditorTransaction: Undo Rename Node
+[2021.01.31-19.18.03:820][932]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.18.03:903][932]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.01.31-19.18.04:427][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.18.04:438][960]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint033084B74B2BAB1AE1EAF5975F6B19AF.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.18.04:455][960]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.18.04:455][960]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.19.03:638][776]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.19.03:724][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.01.31-19.19.04:201][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.19.04:214][801]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_BlueprintCF75C0DC4E2EC7735B8DDA9B0E682DB2.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.19.04:228][801]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.19.04:228][801]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.19.20:595][163]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.19.20:669][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.01.31-19.19.21:191][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.19.21:203][191]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint607A51B642F030BF821954868A18BC87.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.19.21:215][191]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.19.21:216][191]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.20.30:111][558]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.31-19.20.56:951][ 64]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.31-19.20.56:959][ 64]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.31-19.20.59:966][239]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.21.00:075][239]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.01.31-19.21.00:527][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.21.00:540][263]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_BlueprintE07660A344006957600FF9BCC80AC37F.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.21.00:555][263]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.21.00:555][263]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.21.31:444][972]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.21.31:533][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.01.31-19.21.32:323][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.21.32:337][ 16]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint6054CD9A42A85FDEB5114C9B3270AE60.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.21.32:351][ 16]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.21.32:351][ 16]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.21.56:856][574]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.21.56:950][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.01.31-19.21.57:484][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.21.57:527][599]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint5EBA4FEE4BB21D90C7B4D399F02FD490.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.21.57:553][599]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.21.57:553][599]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.22.12:857][990]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.22.13:054][990]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.01.31-19.22.13:476][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.22.13:497][  5]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_BlueprintBAE88D6447041523BD21AF88A544D93F.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.22.13:513][  5]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.22.13:513][  5]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.22.45:289][432]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.22.45:377][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.01.31-19.22.46:044][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.22.46:058][468]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint7B5AD63F4740F604BE1BAAB27215AD05.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.22.46:072][468]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.22.46:072][468]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.23.07:487][156]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.23.07:574][156]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.01.31-19.23.08:311][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.23.08:325][197]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint8773E16B4987D0F0BAE4F492B831E484.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.23.08:340][197]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.23.08:340][197]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.23.41:278][959]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.01.31-19.23.41:320][959]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_Auto13625A13240BF76979F813FAA5A3DEE26.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2021.01.31-19.23.41:323][959]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.083
+[2021.01.31-19.23.41:323][959]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2021.01.31-19.23.41:324][959]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_objects/Wall_Door_Blueprint] ([1] browsable assets)...
+[2021.01.31-19.23.41:324][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_objects/Wall_Door_Blueprint]
+[2021.01.31-19.23.41:335][959]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint_Auto13C59F44143AB61749FB13B80EC4C44EC.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Autosaves/Game/BP_objects/Wall_Door_Blueprint_Auto1.uasset'
+[2021.01.31-19.23.41:335][959]LogFileHelpers: Auto-saving content packages took 0.012
+[2021.01.31-19.23.46:646][231]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.23.46:733][231]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.01.31-19.23.47:208][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.23.47:224][254]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint88C7F8FD4800F2D834336BA89A4EF88E.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.23.47:238][254]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.23.47:238][254]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.24.14:557][877]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.24.14:977][877]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.01.31-19.24.15:087][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.24.15:106][878]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint271177CC4D33C3EEB7F020BD0D7E850F.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.24.15:135][878]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.24.15:135][878]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.24.39:400][616]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.24.39:489][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.01.31-19.24.40:043][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.24.40:059][646]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint8FB62994445F84A3B42DDDBA1BB84648.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.24.40:073][646]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.24.40:073][646]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.25.23:819][320]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.25.23:907][320]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.01.31-19.25.24:379][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.25.24:395][345]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint492E4305420B689AE0E2B095CF052801.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.25.24:410][345]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.25.24:410][345]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.25.48:325][145]Cmd: TRANSACTION UNDO
+[2021.01.31-19.25.48:325][145]LogEditorTransaction: Undo Add new track
+[2021.01.31-19.25.57:942][700]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.25.58:030][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.01.31-19.25.58:702][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.25.58:719][736]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_BlueprintF49D6BB04027877A079FD58C0FD31030.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.25.58:735][736]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.25.58:735][736]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.26.00:763][854]LogEditorTransaction: Undo Add new track
+[2021.01.31-19.26.25:940][436]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.26.26:030][436]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.01.31-19.26.26:512][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.26.26:529][460]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_BlueprintA33DFFCC47B32F6D4030B3ACB709D511.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.26.26:544][460]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.26.26:544][460]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.27.08:695][ 59]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.27.08:795][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.01.31-19.27.09:411][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.27.09:427][ 92]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint04A400E84A1A84D31153C7B20F2B372F.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.27.09:443][ 92]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.27.09:443][ 92]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.27.22:283][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.27.22:296][372]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint0DAC1A7D471A0DCD3C734381FB826679.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.27.22:311][372]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.27.22:311][372]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.27.43:939][628]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.27.44:045][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.01.31-19.27.44:641][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.27.44:657][660]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_BlueprintC0DAC2214F289C124BD9A1B151829169.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.27.44:672][660]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.27.44:672][660]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.28.13:119][665]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.28.13:208][665]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.01.31-19.28.13:745][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.28.13:769][691]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint3930541D408F4FBA1C80C6BAFA5A16A8.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.28.13:785][691]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.28.13:785][691]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.29.39:581][347]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.29.39:678][347]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.01.31-19.29.40:535][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.29.40:552][393]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint7BFA96724DFE4CB403007AA4B3A1F227.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.29.40:569][393]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.29.40:569][393]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.29.57:741][409]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.29.57:861][409]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2021.01.31-19.29.58:512][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.29.58:532][441]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint0FF281EF4B8B85EB0D3A58A7A51C858B.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.29.58:549][441]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.29.58:549][441]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.30.19:984][755]LogSlate: Took 0.002553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.01.31-19.30.31:067][403]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.30.31:179][403]LogClass: Warning: Type mismatch in Closed Angle of Wall_Door_Blueprint_C - Previous (BoolProperty) Current(FloatProperty) for package:  FObjectReader
+[2021.01.31-19.30.31:309][403]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.01.31-19.30.31:872][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.30.31:889][426]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint58507E8C48815BA548AD03ABAF8F1F0F.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.30.31:905][426]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.30.31:905][426]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.31.05:163][922]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.31.05:366][922]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.01.31-19.31.06:018][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.31.06:035][946]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_BlueprintA8A2355D4D543E1A62C658822E26552B.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.31.06:050][946]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.31.06:050][946]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.31.42:878][973]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.31.42:966][973]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.01.31-19.31.43:466][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.31.43:485][997]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint82CBFA8A4729842B2F897B990BF6AC19.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.31.43:499][997]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.31.43:499][997]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.32.38:399][431]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.32.38:490][431]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.01.31-19.32.38:978][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.32.39:021][454]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint341B2A17409D1B2D4ECE05A3505CB233.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.32.39:041][454]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.32.39:041][454]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.33.03:059][121]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.33.03:148][121]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.01.31-19.33.03:697][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.33.03:727][147]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint80A002DB4CB323D63F8A8F847B3421C6.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.33.03:741][147]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.33.03:741][147]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.33.15:350][404]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.33.15:439][404]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.01.31-19.33.16:117][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.33.16:136][440]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint35265EB943F61F9D7CE66F8E13D47821.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.33.16:151][440]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.33.16:151][440]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.33.30:389][282]LogEditorTransaction: Undo Set Rotation
+[2021.01.31-19.33.31:801][337]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.33.31:891][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.01.31-19.33.32:508][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.33.32:527][370]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_BlueprintE3DB2AFC4B562972727CBFBD6B6FC53A.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.33.32:542][370]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.33.32:542][370]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.33.58:684][572]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.01.31-19.33.58:733][572]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_Auto2AEF401C5413B0D3C9CA42B8B93B8E07C.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2021.01.31-19.33.58:735][572]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.115
+[2021.01.31-19.33.58:735][572]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.115
+[2021.01.31-19.35.57:809][961]LogEditorViewport: Clicking on Actor (LMB): Wall_Door_Blueprint_C (Wall_Door_Blueprint)
+[2021.01.31-19.36.07:558][528]LogActorFactory: Actor Factory created key
+[2021.01.31-19.36.09:023][604]LogActorFactory: Actor Factory created key
+[2021.01.31-19.36.14:966][946]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.01.31-19.36.19:928][946]LogSlate: Window 'Select Path' being destroyed
+[2021.01.31-19.36.21:506][946]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.01.31-19.36.21:605][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.01.31-19.36.21:634][946]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_objects/key_Blueprint.key_Blueprint
+[2021.01.31-19.37.01:702][593]BlueprintLog: New page: Compile key_Blueprint
+[2021.01.31-19.37.01:790][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.01.31-19.37.02:328][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/key_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset" SILENT=true
+[2021.01.31-19.37.02:338][621]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/key_Blueprint102DB7D944184820CB4F87A26B5720BF.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset'
+[2021.01.31-19.37.02:354][621]AssetCheck: New page: Asset Save: key_Blueprint
+[2021.01.31-19.37.02:354][621]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/key_Blueprint.key_Blueprint
+[2021.01.31-19.38.00:687][417]BlueprintLog: New page: Compile key_Blueprint
+[2021.01.31-19.38.00:773][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.01.31-19.38.24:564][784]BlueprintLog: New page: Compile key_Blueprint
+[2021.01.31-19.38.24:653][784]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.01.31-19.38.25:309][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/key_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset" SILENT=true
+[2021.01.31-19.38.25:321][820]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/key_BlueprintB584583F409C70936D3C93A0FB6F3F92.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset'
+[2021.01.31-19.38.25:336][820]AssetCheck: New page: Asset Save: key_Blueprint
+[2021.01.31-19.38.25:336][820]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/key_Blueprint.key_Blueprint
+[2021.01.31-19.39.07:119][725]BlueprintLog: New page: Compile key_Blueprint
+[2021.01.31-19.39.07:252][725]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.01.31-19.39.07:931][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/key_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset" SILENT=true
+[2021.01.31-19.39.07:963][759]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/key_Blueprint7BCCB3A447341D2F296A4DB60C0D0D24.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset'
+[2021.01.31-19.39.07:981][759]AssetCheck: New page: Asset Save: key_Blueprint
+[2021.01.31-19.39.07:981][759]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/key_Blueprint.key_Blueprint
+[2021.01.31-19.39.55:051][501]BlueprintLog: New page: Compile key_Blueprint
+[2021.01.31-19.39.55:145][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.01.31-19.39.55:778][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/key_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset" SILENT=true
+[2021.01.31-19.39.55:791][534]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/key_Blueprint9FA010BC4DEFB029BE367EA0A5BE9DCF.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset'
+[2021.01.31-19.39.55:806][534]AssetCheck: New page: Asset Save: key_Blueprint
+[2021.01.31-19.39.55:806][534]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/key_Blueprint.key_Blueprint
+[2021.01.31-19.40.06:708][819]BlueprintLog: New page: Compile key_Blueprint
+[2021.01.31-19.40.06:799][819]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.01.31-19.40.07:315][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/key_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset" SILENT=true
+[2021.01.31-19.40.07:329][840]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/key_Blueprint9AE85A9749F2A3B94E4743A47CBA0789.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset'
+[2021.01.31-19.40.07:344][840]AssetCheck: New page: Asset Save: key_Blueprint
+[2021.01.31-19.40.07:344][840]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/key_Blueprint.key_Blueprint
+[2021.01.31-19.40.24:827][193]BlueprintLog: New page: Compile key_Blueprint
+[2021.01.31-19.40.24:917][193]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.01.31-19.40.25:371][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/key_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset" SILENT=true
+[2021.01.31-19.40.25:385][216]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/key_Blueprint05BE91E941A0D65457B912A2B7E607B5.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset'
+[2021.01.31-19.40.25:400][216]AssetCheck: New page: Asset Save: key_Blueprint
+[2021.01.31-19.40.25:400][216]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/key_Blueprint.key_Blueprint
+[2021.01.31-19.40.57:994][642]BlueprintLog: New page: Compile key_Blueprint
+[2021.01.31-19.40.58:082][642]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.01.31-19.40.58:986][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/key_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset" SILENT=true
+[2021.01.31-19.40.58:999][693]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/key_Blueprint8B86BB494CE4D775B0A48998CFBA22AA.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset'
+[2021.01.31-19.40.59:015][693]AssetCheck: New page: Asset Save: key_Blueprint
+[2021.01.31-19.40.59:015][693]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/key_Blueprint.key_Blueprint
+[2021.01.31-19.42.44:033][149]BlueprintLog: New page: Compile key_Blueprint
+[2021.01.31-19.42.44:124][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.01.31-19.42.44:909][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/key_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset" SILENT=true
+[2021.01.31-19.42.44:923][193]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/key_BlueprintDB02A10644BE930A8B158A821F6294CB.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/key_Blueprint.uasset'
+[2021.01.31-19.42.44:938][193]AssetCheck: New page: Asset Save: key_Blueprint
+[2021.01.31-19.42.44:938][193]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/key_Blueprint.key_Blueprint
+[2021.01.31-19.42.45:748][234]LogSlate: Window 'key_Blueprint' being destroyed
+[2021.01.31-19.42.45:764][234]LogSlate: Window 'key_Blueprint' being destroyed
+[2021.01.31-19.42.45:783][234]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-19.42.45:783][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-19.42.45:891][234]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-19.42.45:891][234]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-19.42.45:891][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-19.42.45:946][234]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-19.42.45:947][234]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-19.42.45:947][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-19.42.50:846][516]MapCheck: New page: Map Check
+[2021.01.31-19.42.50:880][516]LightingResults: New page: Lighting Build - Jan. 31, 2021, 9:42:50 a.m.
+[2021.01.31-19.42.51:112][516]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.31-19.42.51:225][516]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.31-19.42.51:243][516]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.31-19.42.52:336][516]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.31-19.42.52:336][516]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13708
+[2021.01.31-19.42.54:913][516]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.31-19.42.54:913][516]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.31-19.42.54:913][516]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.31-19.42.54:913][516]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.31-19.42.54:913][516]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.31-19.42.55:134][516]LogEditorBuildUtils: Build time 0:04
+[2021.01.31-19.42.55:190][517]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer initialShadingGroup, compiling. 
+[2021.01.31-19.42.55:306][517]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer initialShadingGroup, compiling. 
+[2021.01.31-19.42.55:351][517]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.31-19.42.55:351][517]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.31-19.42.56:955][518]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.31-19.42.56:955][518]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.01.31-19.42.57:618][523]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2021.01.31-19.43.39:205][615]MapCheck: New page: Map Check
+[2021.01.31-19.43.39:262][615]LogStaticLightingSystem: Warning: Failed to build lighting!!! A lighting build is already in progress! Please cancel it before triggering a new build.
+[2021.01.31-19.43.39:976][615]Job has failed! Job is closed while Tasks are still PENDING
+[2021.01.31-19.43.39:977][615]LogEditorBuildUtils: Build time 0:00
+[2021.01.31-19.43.45:054][908]MapCheck: New page: Map Check
+[2021.01.31-19.43.45:069][908]LightingResults: New page: Lighting Build - Jan. 31, 2021, 9:43:45 a.m.
+[2021.01.31-19.43.45:254][908]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.31-19.43.45:263][908]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.31-19.43.45:264][908]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.31-19.43.45:266][908]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.31-19.43.45:266][908]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13708
+[2021.01.31-19.43.50:093][908]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.31-19.43.50:093][908]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.31-19.43.50:093][908]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.31-19.43.50:093][908]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.31-19.43.50:093][908]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.31-19.43.50:212][908]LogEditorBuildUtils: Build time 0:05
+[2021.01.31-19.43.50:497][909]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.01.31-19.44.30:247][642]LogEditorViewport: Clicking on Actor (LMB): Wall_Door_Blueprint_C (Wall_Door_Blueprint)
+[2021.01.31-19.44.32:808][760]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.44.57:198][572]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.44.57:392][572]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2021.01.31-19.44.58:290][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.44.58:500][584]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_BlueprintDE31703642C33427367F99930D70F181.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.44.58:597][584]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.44.58:598][584]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.44.59:815][605]LogSlate: Window 'Wall_Door_Blueprint' being destroyed
+[2021.01.31-19.44.59:837][605]LogSlate: Window 'Wall_Door_Blueprint' being destroyed
+[2021.01.31-19.44.59:876][605]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-19.44.59:877][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-19.45.08:993][973]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.45.17:158][180]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.45.17:341][180]LogUObjectHash: Compacting FUObjectHashTables data took   8.65ms
+[2021.01.31-19.45.17:983][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.45.18:055][185]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint2150B6674B8A8FE65569909C0224BD90.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.45.18:090][185]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.45.18:091][185]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.45.30:767][781]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall22)
+[2021.01.31-19.45.33:369][889]LogEditorViewport: Clicking on Actor (LMB): Wall_Door_Blueprint_C (Wall_Door_Blueprint)
+[2021.01.31-19.45.56:635][699]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.45.56:821][699]LogUObjectHash: Compacting FUObjectHashTables data took   9.01ms
+[2021.01.31-19.45.57:646][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.45.57:706][712]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_Blueprint58AD9A3F4E0A64320580FDA124C21F82.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.45.57:739][712]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.45.57:739][712]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.45.59:203][761]LogSlate: Window 'Wall_Door_Blueprint' being destroyed
+[2021.01.31-19.45.59:212][761]LogSlate: Window 'Wall_Door_Blueprint' being destroyed
+[2021.01.31-19.45.59:223][761]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-19.45.59:223][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-19.46.05:179][ 38]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.46.22:677][624]Job is a success!
+[2021.01.31-19.46.23:440][625]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.054s
+[2021.01.31-19.46.23:440][625]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.01.31-19.46.23:441][625]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2021.01.31-19.46.23:441][625]LogVolumetricLightmapImport:      Bricks at depth
+[2021.01.31-19.46.23:441][625]LogVolumetricLightmapImport:          0: 2.5% covering 100.0% of volume
+[2021.01.31-19.46.23:441][625]LogVolumetricLightmapImport:          1: 10.0% covering 6.2% of volume
+[2021.01.31-19.46.23:441][625]LogVolumetricLightmapImport:          2: 87.5% covering 0.9% of volume
+[2021.01.31-19.46.23:441][625]LogVolumetricLightmapImport:      Bricks in each level
+[2021.01.31-19.46.23:441][625]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 40 bricks 	 100.0% (Persistent Level)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:177][625]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:178][625]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:179][625]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:179][625]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:179][625]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 2048X1024)
+[2021.01.31-19.46.39:179][625]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 2048X2048)
+[2021.01.31-19.46.39:179][625]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 2048X2048)
+[2021.01.31-19.46.39:179][625]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 128X64)
+[2021.01.31-19.46.39:179][625]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2021.01.31-19.46.39:179][625]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2021.01.31-19.46.39:179][625]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 64X32)
+[2021.01.31-19.46.39:179][625]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 64X64)
+[2021.01.31-19.46.39:179][625]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 64X64)
+[2021.01.31-19.46.39:977][625]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2021.01.31-19.46.39:977][625]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2021.01.31-19.46.39:977][625]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2021.01.31-19.46.40:177][625]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2021.01.31-19.46.40:177][625]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2021.01.31-19.46.40:177][625]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X1024)
+[2021.01.31-19.46.40:177][625]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2021.01.31-19.46.40:377][625]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2021.01.31-19.46.40:377][625]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X1024)
+[2021.01.31-19.46.40:377][625]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2021.01.31-19.46.40:776][625]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2021.01.31-19.46.40:776][625]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X1024)
+[2021.01.31-19.46.40:776][625]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X1024)
+[2021.01.31-19.46.40:777][625]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 1024X1024)
+[2021.01.31-19.46.40:976][625]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 1024X1024)
+[2021.01.31-19.46.40:976][625]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 1024X1024)
+[2021.01.31-19.46.40:977][625]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 1024X1024)
+[2021.01.31-19.46.40:982][625]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 1024X1024)
+[2021.01.31-19.46.41:176][625]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 1024X1024)
+[2021.01.31-19.46.41:176][625]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 32X32)
+[2021.01.31-19.46.41:176][625]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (BGRA8, 1024X1024)
+[2021.01.31-19.46.41:576][625]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (BGRA8, 1024X1024)
+[2021.01.31-19.46.41:777][625]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 1024X1024)
+[2021.01.31-19.46.41:778][625]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (BGRA8, 1024X1024)
+[2021.01.31-19.46.41:778][625]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (BGRA8, 1024X1024)
+[2021.01.31-19.46.41:929][625]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 1024X1024)
+[2021.01.31-19.46.41:929][625]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 1024X1024)
+[2021.01.31-19.46.41:929][625]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 1024X1024)
+[2021.01.31-19.46.41:929][625]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (BGRA8, 1024X1024)
+[2021.01.31-19.46.41:929][625]Lightmass on MSI: 2:50 min total, 174 ms importing, 23 ms setup, 18.8 sec photons, 2:31 min processing, 0 ms extra exporting [31/31 mappings]. Threads: 27:46 min total, 15:40 min processing.
+[2021.01.31-19.46.41:935][625]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 30 meshes in 30 LightmapResourceClusters (1.0 Meshes per cluster).
+[2021.01.31-19.46.41:980][625]LogMaterial: Display: Material /Game/Keys/initialShadingGroup.initialShadingGroup needed to have new flag set bUsedWithStaticLighting !
+[2021.01.31-19.46.41:985][625]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2021.01.31-19.46.42:107][625]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.01.31-19.46.42:107][625]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.01.31-19.46.42:107][625]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.01.31-19.46.42:107][625]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.31-19.46.42:107][625]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.31-19.46.42:107][625]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.31-19.46.42:107][625]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-19.46.42:176][625]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.01.31-19.46.42:390][625]LogStaticLightingSystem: Illumination: 2:57 min (13.8 sec encoding lightmaps, 2.67 sec encoding shadowmaps)
+[2021.01.31-19.46.42:390][625]LogStaticLightingSystem: Lightmap texture memory:  149.4 MB (149.4 MB streaming, 0.0 MB non-streaming), 32 textures
+[2021.01.31-19.46.42:390][625]LogStaticLightingSystem: Shadowmap texture memory: 137.3 MB (137.3 MB streaming, 0.0 MB non-streaming), 29 textures
+[2021.01.31-19.46.48:242][625]DumpUnbuiltLightIteractions
+[2021.01.31-19.46.48:242][625]Lights with unbuilt interactions: 3
+[2021.01.31-19.46.48:242][625]    Light PointLight29
+[2021.01.31-19.46.48:242][625]    Light PointLight30
+[2021.01.31-19.46.48:242][625]    Light LightSource
+[2021.01.31-19.46.48:242][625]
+[2021.01.31-19.46.48:242][625]Primitives with unbuilt interactions: 1
+[2021.01.31-19.46.48:242][625]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Wall_Door_Blueprint.StaticMeshComponent0
+[2021.01.31-19.46.48:616][625]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.01.31-19.46.48:647][626]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.31-19.46.48:653][626]MapCheck: New page: FirstPersonExampleMap - Jan. 31, 2021, 9:46:48 a.m.
+[2021.01.31-19.46.48:680][626]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2021.01.31-19.46.48:758][626]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 110.293ms to complete.
+[2021.01.31-19.46.56:360][ 42]BlueprintLog: New page: Compile Wall_Door_Blueprint
+[2021.01.31-19.46.56:527][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.01.31-19.46.57:200][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_objects/Wall_Door_Blueprint" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset" SILENT=true
+[2021.01.31-19.46.57:220][ 64]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/Wall_Door_BlueprintA734EBA54637A987A1F7CE9B6BD9794D.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/BP_objects/Wall_Door_Blueprint.uasset'
+[2021.01.31-19.46.57:249][ 64]AssetCheck: New page: Asset Save: Wall_Door_Blueprint
+[2021.01.31-19.46.57:249][ 64]LogContentValidation: Display: Validating Blueprint /Game/BP_objects/Wall_Door_Blueprint.Wall_Door_Blueprint
+[2021.01.31-19.47.07:906][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.01.31-19.47.09:129][674]LogSlate: Window 'Save Content' being destroyed
+[2021.01.31-19.47.09:204][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.31-19.47.09:245][674]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap15A57B0E4D4D0FEFF29B6F88118B7CC9.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.31-19.47.09:309][674]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.126
+[2021.01.31-19.47.11:477][674]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_BuiltData4092E5A7408A60C1D042D7982A8FF605.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.31-19.47.11:568][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Keys/initialShadingGroup" FILE="../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Keys/initialShadingGroup.uasset" SILENT=true
+[2021.01.31-19.47.11:594][674]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/initialShadingGroup5988D31F4185AB3986BFC8BD0C8D1263.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/Keys/initialShadingGroup.uasset'
+[2021.01.31-19.47.11:685][674]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-19.47.11:685][674]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.31-19.47.11:685][674]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.31-19.47.11:685][674]LogContentValidation: Display: Validating Material /Game/Keys/initialShadingGroup.initialShadingGroup
+[2021.01.31-19.47.13:485][774]MapCheck: New page: Map Check
+[2021.01.31-19.47.13:495][774]LightingResults: New page: Lighting Build - Jan. 31, 2021, 9:47:13 a.m.
+[2021.01.31-19.47.13:504][774]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.31-19.47.13:505][774]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.31-19.47.13:506][774]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.31-19.47.13:506][774]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.31-19.47.13:506][774]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13708
+[2021.01.31-19.47.18:091][774]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.31-19.47.18:091][774]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.31-19.47.18:092][774]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.31-19.47.18:092][774]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.31-19.47.18:092][774]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.31-19.47.18:494][774]LogEditorBuildUtils: Build time 0:05
+[2021.01.31-19.47.18:502][774]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer initialShadingGroup, compiling. 
+[2021.01.31-19.47.18:504][774]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer initialShadingGroup, compiling. 
+[2021.01.31-19.47.19:066][774]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.31-19.47.19:066][774]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.31-19.47.19:066][774]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.31-19.47.19:066][774]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.01.31-19.47.19:617][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.01.31-19.49.04:252][887]LogSlate: Window 'Wall_Door_Blueprint' being destroyed
+[2021.01.31-19.49.04:261][887]LogSlate: Window 'Wall_Door_Blueprint' being destroyed
+[2021.01.31-19.49.04:274][887]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-19.49.04:274][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-19.49.59:326][171]Job is a success!
+[2021.01.31-19.49.59:569][172]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2021.01.31-19.49.59:569][172]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.01.31-19.49.59:569][172]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2021.01.31-19.49.59:569][172]LogVolumetricLightmapImport:      Bricks at depth
+[2021.01.31-19.49.59:569][172]LogVolumetricLightmapImport:          0: 2.6% covering 100.0% of volume
+[2021.01.31-19.49.59:569][172]LogVolumetricLightmapImport:          1: 10.3% covering 6.2% of volume
+[2021.01.31-19.49.59:569][172]LogVolumetricLightmapImport:          2: 87.2% covering 0.8% of volume
+[2021.01.31-19.49.59:569][172]LogVolumetricLightmapImport:      Bricks in each level
+[2021.01.31-19.49.59:569][172]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 39 bricks 	 100.0% (Persistent Level)
+[2021.01.31-19.50.14:966][172]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:966][172]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:966][172]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:966][172]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:966][172]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:966][172]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:967][172]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:968][172]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:969][172]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:969][172]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:969][172]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:969][172]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 2048X1024)
+[2021.01.31-19.50.14:969][172]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 2048X2048)
+[2021.01.31-19.50.14:969][172]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 2048X2048)
+[2021.01.31-19.50.14:969][172]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 256X128)
+[2021.01.31-19.50.14:969][172]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2021.01.31-19.50.14:969][172]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2021.01.31-19.50.14:969][172]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 64X32)
+[2021.01.31-19.50.14:969][172]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 64X64)
+[2021.01.31-19.50.14:969][172]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 64X64)
+[2021.01.31-19.50.15:766][172]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 1024X1024)
+[2021.01.31-19.50.15:766][172]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 1024X1024)
+[2021.01.31-19.50.15:767][172]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (BGRA8, 1024X1024)
+[2021.01.31-19.50.15:783][172]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (BGRA8, 1024X1024)
+[2021.01.31-19.50.15:972][172]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 1024X1024)
+[2021.01.31-19.50.15:972][172]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (BGRA8, 1024X1024)
+[2021.01.31-19.50.15:972][172]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 1024X1024)
+[2021.01.31-19.50.15:972][172]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 1024X1024)
+[2021.01.31-19.50.15:972][172]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (BGRA8, 1024X1024)
+[2021.01.31-19.50.16:166][172]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (BGRA8, 1024X1024)
+[2021.01.31-19.50.16:367][172]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 1024X1024)
+[2021.01.31-19.50.16:569][172]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (BGRA8, 1024X1024)
+[2021.01.31-19.50.16:569][172]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (BGRA8, 1024X1024)
+[2021.01.31-19.50.16:569][172]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (BGRA8, 1024X1024)
+[2021.01.31-19.50.16:569][172]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (BGRA8, 1024X1024)
+[2021.01.31-19.50.16:771][172]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (BGRA8, 1024X1024)
+[2021.01.31-19.50.16:772][172]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (BGRA8, 1024X1024)
+[2021.01.31-19.50.16:772][172]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (BGRA8, 1024X1024)
+[2021.01.31-19.50.16:972][172]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (BGRA8, 1024X1024)
+[2021.01.31-19.50.16:972][172]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (BGRA8, 1024X1024)
+[2021.01.31-19.50.16:972][172]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (BGRA8, 128X128)
+[2021.01.31-19.50.16:972][172]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 32X32)
+[2021.01.31-19.50.17:573][172]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (BGRA8, 1024X1024)
+[2021.01.31-19.50.17:573][172]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (BGRA8, 1024X1024)
+[2021.01.31-19.50.17:573][172]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (BGRA8, 1024X1024)
+[2021.01.31-19.50.17:573][172]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (BGRA8, 1024X1024)
+[2021.01.31-19.50.17:653][172]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (BGRA8, 1024X1024)
+[2021.01.31-19.50.17:653][172]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (BGRA8, 1024X1024)
+[2021.01.31-19.50.17:653][172]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (BGRA8, 1024X1024)
+[2021.01.31-19.50.17:653][172]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (BGRA8, 1024X1024)
+[2021.01.31-19.50.17:653][172]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 31 meshes in 31 LightmapResourceClusters (1.0 Meshes per cluster).
+[2021.01.31-19.50.17:704][172]Lightmass on MSI: 2:57 min total, 135 ms importing, 48 ms setup, 22.7 sec photons, 2:34 min processing, 0 ms extra exporting [31/31 mappings]. Threads: 28:17 min total, 15:49 min processing.
+[2021.01.31-19.50.17:735][172]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.01.31-19.50.17:925][172]LogStaticLightingSystem: Illumination: 3:04 min (13.5 sec encoding lightmaps, 2.67 sec encoding shadowmaps)
+[2021.01.31-19.50.17:925][172]LogStaticLightingSystem: Lightmap texture memory:  149.5 MB (149.5 MB streaming, 0.0 MB non-streaming), 32 textures
+[2021.01.31-19.50.17:925][172]LogStaticLightingSystem: Shadowmap texture memory: 137.4 MB (137.4 MB streaming, 0.0 MB non-streaming), 30 textures
+[2021.01.31-19.50.18:255][172]DumpUnbuiltLightIteractions
+[2021.01.31-19.50.18:256][172]Lights with unbuilt interactions: 0
+[2021.01.31-19.50.18:256][172]
+[2021.01.31-19.50.18:256][172]Primitives with unbuilt interactions: 0
+[2021.01.31-19.50.18:415][172]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.01.31-19.50.18:483][173]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.31-19.50.18:483][173]MapCheck: New page: FirstPersonExampleMap - Jan. 31, 2021, 9:50:18 a.m.
+[2021.01.31-19.50.18:483][173]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.47ms to complete.
+[2021.01.31-19.50.20:856][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.01.31-19.50.22:369][268]LogSlate: Window 'Save Content' being destroyed
+[2021.01.31-19.50.22:423][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.31-19.50.22:474][268]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap22E15F4F449320F073B003A41FD451A9.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.31-19.50.22:485][268]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.080
+[2021.01.31-19.50.24:643][268]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_BuiltDataDBF5041F436F351C8D723A9158470C0F.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.31-19.50.24:662][268]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-19.50.24:662][268]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.31-19.50.24:662][268]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.31-19.50.26:251][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.31-19.50.26:353][355]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap7F3FFF39467441FD770521BD7B609465.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.31-19.50.29:171][355]LogSavePackage: Moving '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Saved/FirstPersonExampleMap_BuiltData2B80AD584E390CA27284B4901E6465F5.tmp' to '../../../../../Lost-and-Found-Project-Unreal/HorrorGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.31-19.50.29:205][355]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-19.50.29:205][355]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.31-19.50.29:205][355]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.31-19.50.36:109][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.31-19.50.38:534][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.31-19.50.38:726][900]LogSlate: Window 'HorrorGame - Unreal Editor' being destroyed
+[2021.01.31-19.50.39:425][901]Cmd: QUIT_EDITOR
+[2021.01.31-19.50.39:464][901]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.01.31-19.50.39:690][901]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.01.31-19.50.40:189][901]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.01.31-19.50.40:190][901]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.01.31-19.50.40:190][901]LogAudio: Display: Audio Device unregistered from world 'FirstPersonExampleMap'.
+[2021.01.31-19.50.40:278][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-19.50.40:296][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-19.50.40:600][901]LogAudio: Display: Audio Device Manager Shutdown
+[2021.01.31-19.50.40:621][901]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.31-19.50.40:802][901]LogExit: Preparing to exit.
+[2021.01.31-19.50.41:083][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CE200] Windows
+[2021.01.31-19.50.41:083][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CE300] Default__DeviceProfile
+[2021.01.31-19.50.41:083][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F872500] WindowsNoEditor
+[2021.01.31-19.50.41:083][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CC900] WindowsServer
+[2021.01.31-19.50.41:083][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F872600] WindowsClient
+[2021.01.31-19.50.41:083][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CDF00] IOS
+[2021.01.31-19.50.41:083][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CCA00] iPadAir
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F876400] iPadAir2
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F821800] IPadPro
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F821900] iPadAir3
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F874F00] iPadAir4
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F820200] iPadMini2
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F877800] iPadMini3
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F823600] iPadMini4
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F876000] iPadMini5
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F873200] iPhone6
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F873100] iPodTouch6
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F820300] iPhone7
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F820500] iPodTouch7
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F870400] iPhone5S
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F821300] iPhone6Plus
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F870100] iPhone6S
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F822800] iPhone6SPlus
+[2021.01.31-19.50.41:084][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F873500] iPhone7Plus
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F823C00] iPhoneSE
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F872700] iPhone8
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F823400] iPhone8Plus
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F871F00] iPhoneX
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F822900] iPhoneXS
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F872D00] iPhoneXSMax
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F820600] iPhoneXR
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F872C00] iPhone11
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F822700] iPhone11Pro
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F870D00] iPhone11ProMax
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F823100] iPhoneSE2
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F871D00] iPhone12Mini
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F822300] iPhone12
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F871100] iPhone12Pro
+[2021.01.31-19.50.41:085][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F823200] iPhone12ProMax
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F872300] iPadPro105
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F822500] iPadPro129
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F871800] iPadPro97
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F821500] iPadPro2_129
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F870B00] iPad5
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F821000] iPad6
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F872A00] iPad7
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F822600] iPad8
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F873700] iPadPro11
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F821A00] iPadPro2_11
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F870F00] iPadPro3_129
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F820A00] iPadPro4_129
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F872000] AppleTV
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F821F00] AppleTV4K
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F870300] TVOS
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F823900] Mac
+[2021.01.31-19.50.41:086][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F873F00] MacClient
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F821B00] MacNoEditor
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F871300] MacServer
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F820800] Linux
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F873300] LinuxNoEditor
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F820E00] LinuxAArch64NoEditor
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F872200] LinuxClient
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F821400] LinuxAArch64Client
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F872B00] LinuxServer
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F823B00] LinuxAArch64Server
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F871900] Android
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F820C00] Android_Low
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F873900] Android_Mid
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F822200] Android_High
+[2021.01.31-19.50.41:087][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F871E00] Android_Default
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F823300] Android_Adreno4xx
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F874300] Android_Adreno5xx_Low
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CD600] Android_Adreno5xx
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F876F00] Android_Adreno6xx
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CDC00] Android_Adreno6xx_Vulkan
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F875200] Android_Mali_T6xx
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CE100] Android_Mali_T7xx
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F875800] Android_Mali_T8xx
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CC200] Android_Mali_G71
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F877000] Android_Mali_G72
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CD700] Android_Mali_G72_Vulkan
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F874400] Android_Mali_G76
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CD000] Android_Mali_G76_Vulkan
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F877100] Android_Mali_G77
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CC600] Android_Mali_G77_Vulkan
+[2021.01.31-19.50.41:088][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F875500] Android_Vulkan_SM5
+[2021.01.31-19.50.41:089][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CD200] Android_PowerVR_G6xxx
+[2021.01.31-19.50.41:089][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F874900] Android_PowerVR_GT7xxx
+[2021.01.31-19.50.41:089][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CCD00] Android_PowerVR_GE8xxx
+[2021.01.31-19.50.41:089][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F876500] Android_PowerVR_GM9xxx
+[2021.01.31-19.50.41:089][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CED00] Android_PowerVR_GM9xxx_Vulkan
+[2021.01.31-19.50.41:089][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F876900] Android_TegraK1
+[2021.01.31-19.50.41:089][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CC100] Android_Unknown_Vulkan
+[2021.01.31-19.50.41:089][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F875900] Lumin
+[2021.01.31-19.50.41:089][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F8CDE00] Lumin_Desktop
+[2021.01.31-19.50.41:089][901]LogDeviceProfile: Device profile begin destroy: [0000021A7F821100] HoloLens
+[2021.01.31-19.50.42:405][901]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-19.50.42:424][901]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-19.50.42:429][901]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-19.50.42:434][901]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-19.50.42:439][901]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-19.50.42:444][901]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-19.50.43:688][901]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.01.31-19.50.44:672][901]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-19.50.44:759][901]LogExit: Editor shut down
+[2021.01.31-19.50.44:810][901]LogExit: Transaction tracking system shut down
+[2021.01.31-19.50.51:488][901]LogExit: Object subsystem successfully closed.
+[2021.01.31-19.50.51:975][901]LogShaderCompilers: Display: Shaders left to compile 0
